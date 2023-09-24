@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Új kérdés hozzáadása</title>
+</head>
+<body>
+  <h2>Új kérdés hozzáadása</h2>
+
+  <form method="post" action="hozzaad.php">
+    <label for="question">Kérdés:</label>
+    <input type="text" id="question" name="question" required><br><br>
+
+    <label for="answer1">Válasz 1:</label>
+    <input type="text" id="answer1" name="answer1" required>
+    <input type="checkbox" id="correct1" name="correct[]" value="answer1">
+    <label for="correct1">Helyes válasz</label><br>
+
+    <label for="answer2">Válasz 2:</label>
+    <input type="text" id="answer2" name="answer2" required>
+    <input type="checkbox" id="correct2" name="correct[]" value="answer2">
+    <label for="correct2">Helyes válasz</label><br>
+
+    <label for="answer3">Válasz 3:</label>
+    <input type="text" id="answer3" name="answer3" required>
+    <input type="checkbox" id="correct3" name="correct[]" value="answer3">
+    <label for="correct3">Helyes válasz</label><br>
+
+    <label for="answer4">Válasz 4:</label>
+    <input type="text" id="answer4" name="answer4" required>
+    <input type="checkbox" id="correct4" name="correct[]" value="answer4">
+    <label for="correct4">Helyes válasz</label><br><br>
+
+    <input type="submit" value="Kész">
+  </form>
+</body>
+</html>

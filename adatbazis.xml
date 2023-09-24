@@ -1,0 +1,2910 @@
+<?xml version="1.0"?>
+<quiz>
+  <question>
+    <text>Melyik &#xE9;vben t&#xF6;rt&#xE9;nt az Amerikai F&#xFC;ggetlens&#xE9;gi H&#xE1;bor&#xFA;?</text>
+    <answers>
+      <answer correct="false">1776</answer>
+      <answer correct="false">1789</answer>
+      <answer correct="true">1775</answer>
+      <answer correct="false">1803</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Ki volt az Egyes&#xFC;lt &#xC1;llamok els&#x151; eln&#xF6;ke?</text>
+    <answers>
+      <answer correct="false">Thomas Jefferson</answer>
+      <answer correct="true">George Washington</answer>
+      <answer correct="false">Abraham Lincoln</answer>
+      <answer correct="false">Benjamin Franklin</answer>
+    </answers>
+  </question>
+  <question>
+    <text>H&#xE1;ny &#xE1;llam alkotja jelenleg az Egyes&#xFC;lt &#xC1;llamokat?</text>
+    <answers>
+      <answer correct="false">48</answer>
+      <answer correct="true">50</answer>
+      <answer correct="false">52</answer>
+      <answer correct="false">45</answer>
+    </answers>
+  </question>
+  <question>
+  <text>Melyik &#xE9;vben t&#xF6;rt&#xE9;nt az els&#x151; Holdra sz&#xE1;ll&#xE1;s?</text>
+  <answers>
+    <answer correct="false">1969</answer>
+    <answer correct="false">1971</answer>
+    <answer correct="true">1968</answer>
+    <answer correct="false">1972</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a Leonardo da Vinci?</text>
+  <answers>
+    <answer correct="false">Zeneszerz&#x151;</answer>
+    <answer correct="true">M&#x171;v&#xE9;sz &#xE9;s feltal&#xE1;l&#xF3;</answer>
+    <answer correct="false">Politikus</answer>
+    <answer correct="false">Sportol&#xF3;</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki &#xED;rta a "H&#xE1;bor&#xFA; &#xE9;s b&#xE9;ke" c&#xED;m&#x171; reg&#xE9;nyt?</text>
+  <answers>
+    <answer correct="true">Lev Tolstoj</answer>
+    <answer correct="false">Fjodor Dosztojevszkij</answer>
+    <answer correct="false">Anton Pavlovics Csehov</answer>
+    <answer correct="false">Ivan Szergejevics Turgenyev</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a fizika Nobel-d&#xED;j&#xE1;nak els&#x151; n&#x151;i nyertese?</text>
+  <answers>
+    <answer correct="false">Marie Curie</answer>
+    <answer correct="true">Marie Sk&#x142;odowska-Curie</answer>
+    <answer correct="false">Rosalind Franklin</answer>
+    <answer correct="false">Irene Joliot-Curie</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;gban tal&#xE1;lhat&#xF3; az Angkor Wat?</text>
+  <answers>
+    <answer correct="false">India</answer>
+    <answer correct="true">Kambodzsa</answer>
+    <answer correct="false">Vietnam</answer>
+    <answer correct="false">Thaif&#xF6;ld</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben csatlakozott Magyarorsz&#xE1;g az Eur&#xF3;pai Uni&#xF3;hoz?</text>
+  <answers>
+    <answer correct="false">2002</answer>
+    <answer correct="false">2003</answer>
+    <answer correct="true">2004</answer>
+    <answer correct="false">2005</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar v&#xE1;ros az orsz&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="true">Budapest</answer>
+    <answer correct="false">Szeged</answer>
+    <answer correct="false">Miskolc</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik foly&#xF3; halad &#xE1;t Budapest ter&#xFC;let&#xE9;n?</text>
+  <answers>
+    <answer correct="false">Tisza</answer>
+    <answer correct="true">Duna</answer>
+    <answer correct="false">Dr&#xE1;va</answer>
+    <answer correct="false">R&#xE1;ba</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;p&#xFC;let a magyar parlament sz&#xE9;khelye?</text>
+  <answers>
+    <answer correct="true">Orsz&#xE1;gh&#xE1;z</answer>
+    <answer correct="false">V&#xE1;rkert Baz&#xE1;r</answer>
+    <answer correct="false">Hal&#xE1;szb&#xE1;stya</answer>
+    <answer correct="false">M&#xE1;ty&#xE1;s-templom</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar v&#xE1;ros h&#xED;res term&#xE1;l f&#xFC;rd&#x151;ir&#x151;l?</text>
+  <answers>
+    <answer correct="false">Eger</answer>
+    <answer correct="false">P&#xE9;cs</answer>
+    <answer correct="true">H&#xE9;v&#xED;z</answer>
+    <answer correct="false">Gy&#x151;r</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g h&#xED;res a Sangria nev&#x171; gy&#xFC;m&#xF6;lcs&#xF6;s borkever&#xE9;k&#xE9;r&#x151;l?</text>
+  <answers>
+    <answer correct="false">Franciaorsz&#xE1;g</answer>
+    <answer correct="false">Olaszorsz&#xE1;g</answer>
+    <answer correct="false">Anglia</answer>
+    <answer correct="true">Spanyolorsz&#xE1;g</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#x151;l&#x151;fajta neve ismert a vil&#xE1;g legn&#xE9;pszer&#x171;bb feh&#xE9;rborak&#xE9;nt?</text>
+  <answers>
+    <answer correct="false">Chardonnay</answer>
+    <answer correct="true">Sauvignon Blanc</answer>
+    <answer correct="false">Riesling</answer>
+    <answer correct="false">Pinot Grigio</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g h&#xED;res a Tokaji Asz&#xFA; nev&#x171; &#xE9;des bor&#xE1;r&#xF3;l?</text>
+  <answers>
+    <answer correct="true">Magyarorsz&#xE1;g</answer>
+    <answer correct="false">Olaszorsz&#xE1;g</answer>
+    <answer correct="false">Spanyolorsz&#xE1;g</answer>
+    <answer correct="false">Portug&#xE1;lia</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik borst&#xED;lus jellemzi a k&#xF6;nny&#x171;, friss &#xE9;s gy&#xFC;m&#xF6;lcs&#xF6;s borokat?</text>
+  <answers>
+    <answer correct="true">Ros&#xE9;</answer>
+    <answer correct="false">V&#xF6;r&#xF6;sbor</answer>
+    <answer correct="false">Desszertbor</answer>
+    <answer correct="false">Pezsg&#x151;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#x151;l&#x151;fajt&#xE1;b&#xF3;l k&#xE9;sz&#xFC;l a h&#xED;res olasz Chianti bor?</text>
+  <answers>
+    <answer correct="false">Cabernet Sauvignon</answer>
+    <answer correct="false">Merlot</answer>
+    <answer correct="true">Sangiovese</answer>
+    <answer correct="false">Syrah</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt Magyarorsz&#xE1;g els&#x151; kir&#xE1;lya?</text>
+  <answers>
+    <answer correct="false">I. Istv&#xE1;n</answer>
+    <answer correct="true">Szent Istv&#xE1;n</answer>
+    <answer correct="false">I. Andr&#xE1;s</answer>
+    <answer correct="false">I. L&#xE1;szl&#xF3;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben tartott&#xE1;k az els&#x151; magyarorsz&#xE1;gi forradalmat &#xE9;s szabads&#xE1;gharcot?</text>
+  <answers>
+    <answer correct="true">1848</answer>
+    <answer correct="false">1867</answer>
+    <answer correct="false">1914</answer>
+    <answer correct="false">1956</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben &#xED;rt&#xE1;k al&#xE1; a trianoni b&#xE9;kedikt&#xE1;tumot, amelyben Magyarorsz&#xE1;g ter&#xFC;lete jelent&#x151;sen cs&#xF6;kkent?</text>
+  <answers>
+    <answer correct="false">1918</answer>
+    <answer correct="true">1920</answer>
+    <answer correct="false">1921</answer>
+    <answer correct="false">1945</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fizikai jelens&#xE9;get &#xED;rja le a Gauss-t&#xF6;rv&#xE9;ny?</text>
+  <answers>
+    <answer correct="true">Elektrosztatika</answer>
+    <answer correct="false">Mechanika</answer>
+    <answer correct="false">Optika</answer>
+    <answer correct="false">Termodinamika</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik anyag vezeti a legjobban az elektromoss&#xE1;got?</text>
+  <answers>
+    <answer correct="true">F&#xE9;mek</answer>
+    <answer correct="false">G&#xE1;zok</answer>
+    <answer correct="false">Folyad&#xE9;kok</answer>
+    <answer correct="false">Szil&#xE1;rd szigetel&#x151;k</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fizikai jelens&#xE9;g okozza a F&#xF6;ld m&#xE1;gneses mez&#x151;j&#xE9;t?</text>
+  <answers>
+    <answer correct="false">Elektrosztatika</answer>
+    <answer correct="false">Gravit&#xE1;ci&#xF3;</answer>
+    <answer correct="false">H&#x151;t&#xE1;gul&#xE1;s</answer>
+    <answer correct="true">Elektrom&#xE1;gnesess&#xE9;g</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik t&#xF6;rv&#xE9;ny &#xED;rja le a k&#xE9;t pontt&#xF6;lt&#xE9;s k&#xF6;z&#xF6;tti elektromos er&#x151; nagys&#xE1;g&#xE1;t?</text>
+  <answers>
+    <answer correct="false">Newton II. t&#xF6;rv&#xE9;nye</answer>
+    <answer correct="false">Hooke-t&#xF6;rv&#xE9;ny</answer>
+    <answer correct="false">Ohm t&#xF6;rv&#xE9;nye</answer>
+    <answer correct="true">Coulomb-t&#xF6;rv&#xE9;ny</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;rosban sz&#xFC;letett Arany J&#xE1;nos, a h&#xED;res magyar k&#xF6;lt&#x151; &#xE9;s &#xED;r&#xF3;?</text>
+  <answers>
+    <answer correct="false">Budapest</answer>
+    <answer correct="true">Nagyszalonta</answer>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="false">Szeged</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros adta sz&#xFC;let&#xE9;s&#xE9;t Pet&#x151;fi S&#xE1;ndor, a 19. sz&#xE1;zadi magyar k&#xF6;lt&#x151; &#xE9;s forradalm&#xE1;r?</text>
+  <answers>
+    <answer correct="false">Budapest</answer>
+    <answer correct="false">Esztergom</answer>
+    <answer correct="true">Kisk&#x151;r&#xF6;s</answer>
+    <answer correct="false">Debrecen</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik telep&#xFC;l&#xE9;sen l&#xE1;tta meg a napvil&#xE1;got Kosztol&#xE1;nyi Dezs&#x151;, a h&#xED;res magyar &#xED;r&#xF3; &#xE9;s k&#xF6;lt&#x151;?</text>
+  <answers>
+    <answer correct="true">Szabadka</answer>
+    <answer correct="false">Budapest</answer>
+    <answer correct="false">Szeged</answer>
+    <answer correct="false">Eger</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros volt M&#xE1;ty&#xE1;s kir&#xE1;ly f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="false">Eger</answer>
+    <answer correct="true">Buda</answer>
+    <answer correct="false">Szeged</answer>
+  </answers>
+</question>
+<question>
+  <text>M&#xE1;ty&#xE1;s kir&#xE1;ly melyik dinasztia tagja volt?</text>
+  <answers>
+    <answer correct="false">Habsburg</answer>
+    <answer correct="true">Hunyadi</answer>
+    <answer correct="false">Anjou</answer>
+    <answer correct="false">&#xC1;rp&#xE1;d</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik szerv&#xFC;nk a legnagyobb bels&#x151; szerv&#xFC;nk &#xE9;s v&#xE1;llalja a legt&#xF6;bb k&#xFC;l&#xF6;nb&#xF6;z&#x151; feladatot?</text>
+  <answers>
+    <answer correct="true">B&#x151;r</answer>
+    <answer correct="false">Sz&#xED;v</answer>
+    <answer correct="true">M&#xE1;j</answer>
+    <answer correct="false">T&#xFC;d&#x151;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik szerv felel&#x151;s a v&#xE9;r oxig&#xE9;n- &#xE9;s sz&#xE9;ndioxid-cser&#xE9;j&#xE9;&#xE9;rt?</text>
+  <answers>
+    <answer correct="false">Sz&#xED;v</answer>
+    <answer correct="true">T&#xFC;d&#x151;</answer>
+    <answer correct="false">M&#xE1;j</answer>
+    <answer correct="false">Vese</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sejt szervez&#x151;dik t&#xF6;bb sejtb&#x151;l, &#xE9;s v&#xE9;gzi a test&#xFC;nk k&#xFC;l&#xF6;nb&#xF6;z&#x151; funkci&#xF3;it?</text>
+  <answers>
+    <answer correct="false">Molekula</answer>
+    <answer correct="false">Bakt&#xE9;rium</answer>
+    <answer correct="false">V&#xED;rus</answer>
+    <answer correct="true">Sejt</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik szerv&#xFC;nk felel&#x151;s az &#xE9;lelem em&#xE9;szt&#xE9;s&#xE9;&#xE9;rt &#xE9;s a t&#xE1;panyagok felsz&#xED;v&#xE1;s&#xE1;&#xE9;rt?</text>
+  <answers>
+    <answer correct="false">L&#xE9;p</answer>
+    <answer correct="false">Vese</answer>
+    <answer correct="true">B&#xE9;lrendszer</answer>
+    <answer correct="false">Hasny&#xE1;lmirigy</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik szerv&#xFC;nk biztos&#xED;tja a test&#xFC;nk mozg&#xE1;s&#xE1;t, tart&#xE1;s&#xE1;t &#xE9;s v&#xE9;delm&#xE9;t?</text>
+  <answers>
+    <answer correct="false">M&#xE1;j</answer>
+    <answer correct="true">Izomrendszer</answer>
+    <answer correct="false">Vese</answer>
+    <answer correct="false">L&#xE9;p</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik csal&#xE1;d uralkodik a Vas Tr&#xF3;non a "Tr&#xF3;nok harca" sorozatban?</text>
+  <answers>
+    <answer correct="false">Stark csal&#xE1;d</answer>
+    <answer correct="false">Lannister csal&#xE1;d</answer>
+    <answer correct="true">Baratheon csal&#xE1;d</answer>
+    <answer correct="false">Targaryen csal&#xE1;d</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik h&#xE1;z tartja otthon&#xE1;ul Winterfell v&#xE1;r&#xE1;t a "Tr&#xF3;nok harca" sorozatban?</text>
+  <answers>
+    <answer correct="true">Stark h&#xE1;z</answer>
+    <answer correct="false">Lannister h&#xE1;z</answer>
+    <answer correct="false">Baratheon h&#xE1;z</answer>
+    <answer correct="false">Targaryen h&#xE1;z</answer>
+  </answers>
+</question>
+<question>
+  <text>Kik k&#xF6;z&#xF6;tt zajlik a hatalmi harc a "Tr&#xF3;nok harca" sorozatban?</text>
+  <answers>
+    <answer correct="false">&#xC9;szakiak &#xE9;s d&#xE9;liek</answer>
+    <answer correct="false">Harcosok &#xE9;s m&#xE1;gi&#xE1;k</answer>
+    <answer correct="true">K&#xFC;l&#xF6;nb&#xF6;z&#x151; nemesi h&#xE1;zak</answer>
+    <answer correct="false">Ember &#xE9;s s&#xE1;rk&#xE1;ny</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter a "Tr&#xF3;nok harca" sorozatban ismert a taktikai zsenialit&#xE1;s&#xE1;r&#xF3;l &#xE9;s a "sz&#xF6;vets&#xE9;gek k&#xF6;nyv&#xE9;nek" olvas&#xE1;s&#xE1;r&#xF3;l?</text>
+  <answers>
+    <answer correct="true">Tyrion Lannister</answer>
+    <answer correct="false">Daenerys Targaryen</answer>
+    <answer correct="false">Cersei Lannister</answer>
+    <answer correct="false">Arya Stark</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ir&#xE1;nyban hat a gravit&#xE1;ci&#xF3;s er&#x151;?</text>
+  <answers>
+    <answer correct="true">Lefel&#xE9;</answer>
+    <answer correct="false">Felfel&#xE9;</answer>
+    <answer correct="false">Oldalra</answer>
+    <answer correct="false">Nincs ir&#xE1;nya</answer>
+  </answers>
+</question>
+<question>
+  <text>Mit nevez&#xFC;nk vezet&#x151; anyagnak?</text>
+  <answers>
+    <answer correct="false">V&#xED;z</answer>
+    <answer correct="false">F&#xF6;ld</answer>
+    <answer correct="true">F&#xE9;m</answer>
+    <answer correct="false">Leveg&#x151;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az Eiffel-torony otthona?</text>
+  <answers>
+    <answer correct="true">P&#xE1;rizs</answer>
+    <answer correct="false">R&#xF3;ma</answer>
+    <answer correct="false">Madrid</answer>
+    <answer correct="false">Berlin</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;gban tal&#xE1;lhat&#xF3; a Colosseum?</text>
+  <answers>
+    <answer correct="true">Olaszorsz&#xE1;g</answer>
+    <answer correct="false">Spanyolorsz&#xE1;g</answer>
+    <answer correct="false">G&#xF6;r&#xF6;gorsz&#xE1;g</answer>
+    <answer correct="false">Franciaorsz&#xE1;g</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik angol &#xED;r&#xF3; alkotta meg Sherlock Holmes karakter&#xE9;t?</text>
+  <answers>
+    <answer correct="false">Charles Dickens</answer>
+    <answer correct="true">Arthur Conan Doyle</answer>
+    <answer correct="false">William Shakespeare</answer>
+    <answer correct="false">Jane Austen</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;rosban tal&#xE1;lhat&#xF3; a V&#xF6;r&#xF6;s t&#xE9;r?</text>
+  <answers>
+    <answer correct="false">R&#xF3;ma</answer>
+    <answer correct="false">London</answer>
+    <answer correct="true">Moszkva</answer>
+    <answer correct="false">P&#xE1;rizs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llat a vil&#xE1;g legnagyobb eml&#x151;se?</text>
+  <answers>
+    <answer correct="true">K&#xE9;k b&#xE1;lna</answer>
+    <answer correct="false">Elef&#xE1;nt</answer>
+    <answer correct="false">&#xD3;ri&#xE1;spanda</answer>
+    <answer correct="false">Gorilla</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llat h&#xED;res azzal, hogy nagy t&#xE1;vols&#xE1;gokat tud v&#xE1;ndorolni az &#xE9;ves k&#xF6;lt&#xF6;z&#xE9;se sor&#xE1;n?</text>
+  <answers>
+    <answer correct="false">Hatty&#xFA;</answer>
+    <answer correct="false">Fecske</answer>
+    <answer correct="true">J&#xE9;gmad&#xE1;r</answer>
+    <answer correct="false">Bagoly</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llatnak van a legnagyobb agya az &#xF6;sszes eml&#x151;s k&#xF6;z&#xFC;l?</text>
+  <answers>
+    <answer correct="false">Majom</answer>
+    <answer correct="true">Delfin</answer>
+    <answer correct="false">F&#xF3;ka</answer>
+    <answer correct="false">Macska</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llatnak van a leghosszabb nyelve a vil&#xE1;gon?</text>
+  <answers>
+    <answer correct="true">S&#xFC;n&#xF6;cske</answer>
+    <answer correct="false">Krokodil</answer>
+    <answer correct="false">Leop&#xE1;rd</answer>
+    <answer correct="false">Papag&#xE1;j</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llatot tartj&#xE1;k a vil&#xE1;g leggyorsabb fut&#xF3;j&#xE1;nak?</text>
+  <answers>
+    <answer correct="false">Ny&#xFA;l</answer>
+    <answer correct="false">Oroszl&#xE1;n</answer>
+    <answer correct="false">Leop&#xE1;rd</answer>
+    <answer correct="true">Gep&#xE1;rd</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llat a szimb&#xF3;luma az er&#x151;nek &#xE9;s b&#xE1;tors&#xE1;gnak?</text>
+  <answers>
+    <answer correct="false">Gorilla</answer>
+    <answer correct="true">Oroszl&#xE1;n</answer>
+    <answer correct="false">Tigris</answer>
+    <answer correct="false">Elef&#xE1;nt</answer>
+  </answers>
+</question>
+<question>
+  <text>Mit jelent a HTTP r&#xF6;vid&#xED;t&#xE9;s az informatik&#xE1;ban?</text>
+  <answers>
+    <answer correct="false">Hypertext Transition Protocol</answer>
+    <answer correct="true">Hypertext Transfer Protocol</answer>
+    <answer correct="false">Hyperlink Terminal Protocol</answer>
+    <answer correct="false">Hypermedia Text Protocol</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik adatstrukt&#xFA;ra haszn&#xE1;lja az LIFO (Last In, First Out) m&#x171;k&#xF6;d&#xE9;si elvet?</text>
+  <answers>
+    <answer correct="false">Halmaz</answer>
+    <answer correct="false">Sor</answer>
+    <answer correct="true">Verem</answer>
+    <answer correct="false">Fa</answer>
+  </answers>
+</question>
+<question>
+  <text>Mit jelent a PC r&#xF6;vid&#xED;t&#xE9;s az informatik&#xE1;ban?</text>
+  <answers>
+    <answer correct="true">Personal Computer</answer>
+    <answer correct="false">Professional Computer</answer>
+    <answer correct="false">Processor Core</answer>
+    <answer correct="false">Program Code</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#xE1;m&#xED;t&#xF3;g&#xE9;pes perif&#xE9;ria eszk&#xF6;z haszn&#xE1;lhat&#xF3; a sz&#xF6;veges adatok bevitel&#xE9;re?</text>
+  <answers>
+    <answer correct="false">Monitor</answer>
+    <answer correct="false">Eg&#xE9;r</answer>
+    <answer correct="true">Billenty&#x171;zet</answer>
+    <answer correct="false">Nyomtat&#xF3;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik t&#xED;pus&#xFA; szoftver felel&#x151;s a program adatok t&#xE1;rol&#xE1;s&#xE1;&#xE9;rt &#xE9;s kezel&#xE9;s&#xE9;&#xE9;rt?</text>
+  <answers>
+    <answer correct="false">Oper&#xE1;ci&#xF3;s rendszer</answer>
+    <answer correct="true">Adatb&#xE1;zis-kezel&#x151; szoftver</answer>
+    <answer correct="false">Webb&#xF6;ng&#xE9;sz&#x151;</answer>
+    <answer correct="false">Grafikus szerkeszt&#x151;program</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llat &#xE9;l a leghosszabb ideig a term&#xE9;szetben?</text>
+  <answers>
+    <answer correct="false">Tengeri tekn&#x151;s</answer>
+    <answer correct="false">Elef&#xE1;nt</answer>
+    <answer correct="true">Gal&#xE1;pagoszi &#xF3;ri&#xE1;stekn&#x151;s</answer>
+    <answer correct="false">Sarki medve</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE1;llatnak van a leghosszabb terhess&#xE9;gi ideje?</text>
+  <answers>
+    <answer correct="true">Elef&#xE1;nt</answer>
+    <answer correct="false">H&#xF3;d</answer>
+    <answer correct="false">Or&#xE1;ngut&#xE1;n</answer>
+    <answer correct="false">Giraff</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben kezd&#x151;d&#xF6;tt a m&#xE1;sodik vil&#xE1;gh&#xE1;bor&#xFA; Eur&#xF3;p&#xE1;ban?</text>
+  <answers>
+    <answer correct="false">1937</answer>
+    <answer correct="true">1939</answer>
+    <answer correct="false">1941</answer>
+    <answer correct="false">1943</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben t&#xF6;rt&#xE9;nt a D-nap, azaz a normandiai partrasz&#xE1;ll&#xE1;s?</text>
+  <answers>
+    <answer correct="false">1942</answer>
+    <answer correct="false">1943</answer>
+    <answer correct="true">1944</answer>
+    <answer correct="false">1945</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben kapitul&#xE1;lt N&#xE9;metorsz&#xE1;g a m&#xE1;sodik vil&#xE1;gh&#xE1;bor&#xFA;ban?</text>
+  <answers>
+    <answer correct="false">1943</answer>
+    <answer correct="false">1944</answer>
+    <answer correct="true">1945</answer>
+    <answer correct="false">1946</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben dobt&#xE1;k atomt&#xF6;ltetekkel a jap&#xE1;n v&#xE1;rosokat, Hiroshim&#xE1;t &#xE9;s Nagasakit?</text>
+  <answers>
+    <answer correct="false">1942</answer>
+    <answer correct="false">1943</answer>
+    <answer correct="true">1945</answer>
+    <answer correct="false">1946</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik esem&#xE9;ny ind&#xED;totta el az I. vil&#xE1;gh&#xE1;bor&#xFA;t?</text>
+  <answers>
+    <answer correct="false">Osztr&#xE1;k-Magyar tr&#xF3;n&#xF6;r&#xF6;k&#xF6;s meggyilkol&#xE1;sa</answer>
+    <answer correct="true">Szerbia elleni osztr&#xE1;k had&#xFC;zenet</answer>
+    <answer correct="false">Oroszorsz&#xE1;g bel&#xE9;p&#xE9;se a h&#xE1;bor&#xFA;ba</answer>
+    <answer correct="false">N&#xE9;metorsz&#xE1;g megt&#xE1;madja Belgiumot</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g volt a k&#xF6;zponti hatalmak oldal&#xE1;n harcol&#xF3; a tengelyhatalmak sz&#xF6;vets&#xE9;g&#xE9;ben az I. vil&#xE1;gh&#xE1;bor&#xFA;ban?</text>
+  <answers>
+    <answer correct="false">Oroszorsz&#xE1;g</answer>
+    <answer correct="false">Franciaorsz&#xE1;g</answer>
+    <answer correct="true">N&#xE9;metorsz&#xE1;g</answer>
+    <answer correct="false">Egyes&#xFC;lt Kir&#xE1;lys&#xE1;g</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben csatlakozott az Egyes&#xFC;lt &#xC1;llamok az I. vil&#xE1;gh&#xE1;bor&#xFA;hoz?</text>
+  <answers>
+    <answer correct="false">1914</answer>
+    <answer correct="true">1917</answer>
+    <answer correct="false">1918</answer>
+    <answer correct="false">1919</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;vben &#xED;rt&#xE1;k al&#xE1; a versailles-i b&#xE9;keszerz&#x151;d&#xE9;st az I. vil&#xE1;gh&#xE1;bor&#xFA; ut&#xE1;n?</text>
+  <answers>
+    <answer correct="false">1916</answer>
+    <answer correct="false">1918</answer>
+    <answer correct="true">1919</answer>
+    <answer correct="false">1921</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fegyverzet volt az egyik jellemz&#x151; &#xFA;jdons&#xE1;g az I. vil&#xE1;gh&#xE1;bor&#xFA;ban?</text>
+  <answers>
+    <answer correct="false">Lovass&#xE1;g</answer>
+    <answer correct="false">Kard</answer>
+    <answer correct="true">G&#xE9;ppuska</answer>
+    <answer correct="false">&#xCD;j</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az Egyes&#xFC;lt Kir&#xE1;lys&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="true">London</answer>
+    <answer correct="false">P&#xE1;rizs</answer>
+    <answer correct="false">Berlin</answer>
+    <answer correct="false">R&#xF3;ma</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az Olaszorsz&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="false">Madrid</answer>
+    <answer correct="false">Ath&#xE9;n</answer>
+    <answer correct="false">B&#xE9;cs</answer>
+    <answer correct="true">R&#xF3;ma</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az Spanyolorsz&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="true">Madrid</answer>
+    <answer correct="false">P&#xE1;rizs</answer>
+    <answer correct="false">Budapest</answer>
+    <answer correct="false">Amszterdam</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az N&#xE9;metorsz&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="false">London</answer>
+    <answer correct="true">Berlin</answer>
+    <answer correct="false">R&#xF3;ma</answer>
+    <answer correct="false">Budapest</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik v&#xE1;ros az G&#xF6;r&#xF6;gorsz&#xE1;g f&#x151;v&#xE1;rosa?</text>
+  <answers>
+    <answer correct="false">P&#xE1;rizs</answer>
+    <answer correct="false">Budapest</answer>
+    <answer correct="true">Ath&#xE9;n</answer>
+    <answer correct="false">Berlin</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; m&#x171;veletnek: 10 + 10 x 0?</text>
+  <answers>
+    <answer correct="false">0</answer>
+    <answer correct="false">Nincs eredmény</answer>
+    <answer correct="false">20</answer>
+    <answer correct="true">10</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi a k&#xF6;vetkez&#x151; kifejez&#xE9;s &#xE9;rt&#xE9;ke: 6 / 2(1 + 2)?</text>
+  <answers>
+    <answer correct="false">1</answer>
+    <answer correct="false">3</answer>
+    <answer correct="true">9</answer>
+    <answer correct="false">12</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; m&#x171;veletnek: 20 - 5 + 3 x 2?</text>
+  <answers>
+    <answer correct="false">12</answer>
+    <answer correct="false">25</answer>
+    <answer correct="false">30</answer>
+    <answer correct="true">21</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; kifejez&#xE9;snek: 1 + 1 - 1 x 1 + 1?</text>
+  <answers>
+    <answer correct="false">0</answer>
+    <answer correct="false">1</answer>
+    <answer correct="true">2</answer>
+    <answer correct="false">3</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; m&#x171;veletnek: 5 x 0 + 5 &#xF7; 5?</text>
+  <answers>
+    <answer correct="false">0</answer>
+    <answer correct="true">6</answer>
+    <answer correct="false">5</answer>
+    <answer correct="false">1</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; kifejez&#xE9;snek: 10 - 9 + 8 - 7 + 6 - 5 + 4 - 3 + 2 - 1?</text>
+  <answers>
+    <answer correct="false">0</answer>
+    <answer correct="true">5</answer>
+    <answer correct="false">10</answer>
+    <answer correct="false">-5</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; kifejez&#xE9;snek: 2^3 - 3^2 + 4^1?</text>
+  <answers>
+    <answer correct="true">3</answer>
+    <answer correct="false">4</answer>
+    <answer correct="false">5</answer>
+    <answer correct="false">1</answer>
+  </answers>
+</question>
+<question>
+  <text>Mennyi az eredm&#xE9;nye a k&#xF6;vetkez&#x151; m&#x171;veletnek: &#x221A;16 + &#x221A;25 - &#x221A;36?</text>
+  <answers>
+    <answer correct="false">6</answer>
+    <answer correct="false">5</answer>
+    <answer correct="false">4</answer>
+    <answer correct="true">3</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki &#xED;rta a "Sz&#xF3;zat" c&#xED;m&#x171; k&#xF6;ltem&#xE9;nyt?</text>
+  <answers>
+    <answer correct="false">J&#xF3;zsef Attila</answer>
+    <answer correct="true">V&#xF6;r&#xF6;smarty Mih&#xE1;ly</answer>
+    <answer correct="false">Ady Endre</answer>
+    <answer correct="false">Pet&#x151;fi S&#xE1;ndor</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xF6;sszetev&#x151; felel&#x151;s a sz&#xE1;m&#xED;t&#xF3;g&#xE9;p mem&#xF3;ri&#xE1;j&#xE1;nak ideiglenes t&#xE1;rol&#xE1;s&#xE1;&#xE9;rt?</text>
+  <answers>
+    <answer correct="false">Processzor</answer>
+    <answer correct="false">Merevlemez</answer>
+    <answer correct="true">Mem&#xF3;ria (RAM)</answer>
+    <answer correct="false">Videok&#xE1;rtya</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a leggyakrabban haszn&#xE1;lt oper&#xE1;ci&#xF3;s rendszer a sz&#xE1;m&#xED;t&#xF3;g&#xE9;pek k&#xF6;z&#xF6;tt?</text>
+  <answers>
+    <answer correct="false">Windows XP</answer>
+    <answer correct="false">Linux</answer>
+    <answer correct="true">Windows 10</answer>
+    <answer correct="false">Mac OS</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik eszk&#xF6;z jelen&#xED;ti meg a sz&#xE1;m&#xED;t&#xF3;g&#xE9;p k&#xE9;p&#xE9;t &#xE9;s grafikus tartalm&#xE1;t?</text>
+  <answers>
+    <answer correct="false">Processzor</answer>
+    <answer correct="false">Merevlemez</answer>
+    <answer correct="false">Mem&#xF3;ria (RAM)</answer>
+    <answer correct="true">Monitor</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#xE1;m&#xED;t&#xF3;g&#xE9;p-alap&#xFA; adat&#xE1;tviteli protokoll a legelterjedtebb az interneten?</text>
+  <answers>
+    <answer correct="true">TCP/IP</answer>
+    <answer correct="false">FTP</answer>
+    <answer correct="false">HTTP</answer>
+    <answer correct="false">SMTP</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g h&#xED;res a sushi nev&#x171; &#xE9;teleir&#x151;l?</text>
+  <answers>
+    <answer correct="false">Olaszorsz&#xE1;g</answer>
+    <answer correct="true">Jap&#xE1;n</answer>
+    <answer correct="false">Franciaorsz&#xE1;g</answer>
+    <answer correct="false">Mexik&#xF3;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;tel a tradicion&#xE1;lis indiai konyha egyik jellegzetess&#xE9;ge?</text>
+  <answers>
+    <answer correct="false">Sushi</answer>
+    <answer correct="true">Curry</answer>
+    <answer correct="false">Spaghetti</answer>
+    <answer correct="false">Taco</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;lelmiszer tartalmazza a legt&#xF6;bb C-vitamint?</text>
+  <answers>
+    <answer correct="false">H&#xFA;s</answer>
+    <answer correct="true">Citrusf&#xE9;l&#xE9;k</answer>
+    <answer correct="false">Tejterm&#xE9;kek</answer>
+    <answer correct="false">Keny&#xE9;r</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;tel a tradicion&#xE1;lis olasz t&#xE9;sztafajta?</text>
+  <answers>
+    <answer correct="false">Pad Thai</answer>
+    <answer correct="false">Sushi</answer>
+    <answer correct="false">Gyros</answer>
+    <answer correct="true">Spaghetti</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik &#xE9;lelmiszer tartalmazza a legt&#xF6;bb feh&#xE9;rj&#xE9;t?</text>
+  <answers>
+    <answer correct="true">H&#xFA;s</answer>
+    <answer correct="false">Gy&#xFC;m&#xF6;lcs&#xF6;k</answer>
+    <answer correct="false">Z&#xF6;lds&#xE9;gek</answer>
+    <answer correct="false">Cukor</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#xED;n a "little black dress" hagyom&#xE1;nyos sz&#xED;ne?</text>
+  <answers>
+    <answer correct="true">Fekete</answer>
+    <answer correct="false">Piros</answer>
+    <answer correct="false">K&#xE9;k</answer>
+    <answer correct="false">Z&#xF6;ld</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik divatm&#xE1;rka tervezte a h&#xED;res "Double C" log&#xF3;val ell&#xE1;tott t&#xE1;sk&#xE1;kat?</text>
+  <answers>
+    <answer correct="false">Gucci</answer>
+    <answer correct="false">Prada</answer>
+    <answer correct="true">Chanel</answer>
+    <answer correct="false">Louis Vuitton</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ruhadarabot haszn&#xE1;ljuk leggyakrabban torna k&#xF6;zben?</text>
+  <answers>
+    <answer correct="false">P&#xF3;l&#xF3;</answer>
+    <answer correct="false">Szoknya</answer>
+    <answer correct="true">Nadr&#xE1;g</answer>
+    <answer correct="false">Ruha</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik divath&#xE1;z tervezte az ikonikus "Le Smoking" n&#x151;i &#xF6;lt&#xF6;nyt?</text>
+  <answers>
+    <answer correct="false">Versace</answer>
+    <answer correct="false">Dior</answer>
+    <answer correct="true">Yves Saint Laurent</answer>
+    <answer correct="false">Balenciaga</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik kieg&#xE9;sz&#xED;t&#x151; visel&#xE9;se jellemzi a n&#x151;i boh&#xE9;m st&#xED;lust?</text>
+  <answers>
+    <answer correct="false">Nyakkend&#x151;</answer>
+    <answer correct="false">Kalap</answer>
+    <answer correct="true">Kark&#xF6;t&#x151;k &#xE9;s nyakl&#xE1;ncok</answer>
+    <answer correct="false">Csizma</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik sz&#xED;n nem tartozik a "sziv&#xE1;rv&#xE1;ny" sz&#xED;nek k&#xF6;z&#xE9;?</text>
+  <answers>
+    <answer correct="true">Fekete</answer>
+    <answer correct="false">Piros</answer>
+    <answer correct="false">K&#xE9;k</answer>
+    <answer correct="false">Z&#xF6;ld</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik divath&#xE1;z a vil&#xE1;g legismertebb luxus&#xF3;r&#xE1;inak tervez&#x151;je?</text>
+  <answers>
+    <answer correct="false">Rolex</answer>
+    <answer correct="true">Cartier</answer>
+    <answer correct="false">Omega</answer>
+    <answer correct="false">Tag Heuer</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik cip&#x151;t&#xED;pus jellemzi a skater st&#xED;lust?</text>
+  <answers>
+    <answer correct="false">Csizma</answer>
+    <answer correct="false">Sz&#xE1;rcsizma</answer>
+    <answer correct="true">Vans</answer>
+    <answer correct="false">Magassark&#xFA;</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik divatf&#x151;v&#xE1;rosr&#xF3;l h&#xED;res a "Mil&#xE1;n&#xF3;i Divath&#xE9;t"?</text>
+  <answers>
+    <answer correct="false">P&#xE1;rizs</answer>
+    <answer correct="true">Mil&#xE1;n&#xF3;</answer>
+    <answer correct="false">London</answer>
+    <answer correct="false">New York</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik anyagb&#xF3;l k&#xE9;sz&#xFC;lnek a hagyom&#xE1;nyos cowboy kalapok?</text>
+  <answers>
+    <answer correct="false">Fapap&#xED;r</answer>
+    <answer correct="false">Pamut</answer>
+    <answer correct="true">Filc</answer>
+    <answer correct="false">B&#x151;r</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;k sorozatban tal&#xE1;lkozhatunk Mario karakterrel?</text>
+  <answers>
+    <answer correct="false">Call of Duty</answer>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="true">Super Mario</answer>
+    <answer correct="false">FIFA</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban lehet virtu&#xE1;lis farmot &#xE9;p&#xED;teni &#xE9;s gazd&#xE1;lkodni?</text>
+  <answers>
+    <answer correct="false">Tetris</answer>
+    <answer correct="true">Farmville</answer>
+    <answer correct="false">Grand Theft Auto</answer>
+    <answer correct="false">Assassin's Creed</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell kirakni a h&#xED;res "Rubik-kock&#xE1;t"?</text>
+  <answers>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="true">Rubik's Cube</answer>
+    <answer correct="false">Fortnite</answer>
+    <answer correct="false">World of Warcraft</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell k&#xFC;l&#xF6;nb&#xF6;z&#x151; feladatokat megoldani &#xE9;s &#xE9;p&#xFC;leteket &#xE9;p&#xED;teni?</text>
+  <answers>
+    <answer correct="false">Candy Crush</answer>
+    <answer correct="false">Angry Birds</answer>
+    <answer correct="false">Pok&#xE9;mon GO</answer>
+    <answer correct="true">Minecraft</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban tal&#xE1;lhat&#xF3; meg az ikonikus karakter, Lara Croft?</text>
+  <answers>
+    <answer correct="false">FIFA</answer>
+    <answer correct="true">Tomb Raider</answer>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="false">Super Mario</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy t&#xFA;l&#xE9;l&#x151;t ir&#xE1;ny&#xED;tani egy vesz&#xE9;lyes, zombikkal teli vil&#xE1;gban?</text>
+  <answers>
+    <answer correct="false">Candy Crush</answer>
+    <answer correct="false">The Sims</answer>
+    <answer correct="false">Angry Birds</answer>
+    <answer correct="true">Resident Evil</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy galaktikus birodalomot &#xE9;p&#xED;teni &#xE9;s vezetni?</text>
+  <answers>
+    <answer correct="false">Call of Duty</answer>
+    <answer correct="false">Assassin's Creed</answer>
+    <answer correct="true">Civilization</answer>
+    <answer correct="false">World of Warcraft</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell k&#xFC;l&#xF6;nb&#xF6;z&#x151; aut&#xF3;kat vezetni &#xE9;s versenyezni a gy&#x151;zelem&#xE9;rt?</text>
+  <answers>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="false">FIFA</answer>
+    <answer correct="true">Need for Speed</answer>
+    <answer correct="false">Fortnite</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy var&#xE1;zsl&#xF3; karaktert ir&#xE1;ny&#xED;tani &#xE9;s k&#xFC;zdeni a s&#xF6;t&#xE9;t er&#x151;k ellen?</text>
+  <answers>
+    <answer correct="false">Tetris</answer>
+    <answer correct="false">Pok&#xE9;mon GO</answer>
+    <answer correct="true">The Witcher</answer>
+    <answer correct="false">Super Mario</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;k sorozatban tal&#xE1;lhat&#xF3; meg az ikonikus karakter, Master Chief?</text>
+  <answers>
+    <answer correct="false">Assassin's Creed</answer>
+    <answer correct="true">Halo</answer>
+    <answer correct="false">Grand Theft Auto</answer>
+    <answer correct="false">Minecraft</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell k&#xFC;l&#xF6;nb&#xF6;z&#x151; k&#xFC;ldet&#xE9;seket teljes&#xED;teni egy k&#xF6;z&#xE9;pkori fantasy vil&#xE1;gban?</text>
+  <answers>
+    <answer correct="false">Call of Duty</answer>
+    <answer correct="false">Fortnite</answer>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="true">The Elder Scrolls</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy er&#x151;d&#xF6;t &#xE9;p&#xED;teni &#xE9;s megv&#xE9;deni a t&#xE1;mad&#xF3;kt&#xF3;l?</text>
+  <answers>
+    <answer correct="false">Candy Crush</answer>
+    <answer correct="true">Fortnite</answer>
+    <answer correct="false">The Sims</answer>
+    <answer correct="false">Super Mario</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban j&#xE1;tszhatunk a F&#xF6;ld k&#xFC;l&#xF6;nb&#xF6;z&#x151; t&#xF6;rt&#xE9;nelmi korszakaiban &#xE9;s ir&#xE1;ny&#xED;thatunk civiliz&#xE1;ci&#xF3;kat?</text>
+  <answers>
+    <answer correct="false">FIFA</answer>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="true">Civilization</answer>
+    <answer correct="false">Angry Birds</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy &#x171;rhaj&#xF3;t ir&#xE1;ny&#xED;tva &#x171;rben rep&#xFC;lni &#xE9;s csat&#xE1;rozni?</text>
+  <answers>
+    <answer correct="false">Tetris</answer>
+    <answer correct="true">Star Wars: X-Wing</answer>
+    <answer correct="false">Super Mario</answer>
+    <answer correct="false">Fortnite</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell k&#xFC;l&#xF6;nb&#xF6;z&#x151; aut&#xF3;versenyeken r&#xE9;szt venni &#xE9;s bajnoks&#xE1;gokat nyerni?</text>
+  <answers>
+    <answer correct="false">Minecraft</answer>
+    <answer correct="false">FIFA</answer>
+    <answer correct="true">Gran Turismo</answer>
+    <answer correct="false">Angry Birds</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy gengszter karaktert ir&#xE1;ny&#xED;tani &#xE9;s b&#x171;n&#xF6;z&#x151;i k&#xFC;ldet&#xE9;seket teljes&#xED;teni?</text>
+  <answers>
+    <answer correct="false">Pok&#xE9;mon GO</answer>
+    <answer correct="false">Super Mario</answer>
+    <answer correct="false">The Sims</answer>
+    <answer correct="true">Grand Theft Auto</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik j&#xE1;t&#xE9;kban kell egy var&#xE1;zsl&#xF3; karaktert ir&#xE1;ny&#xED;tani &#xE9;s var&#xE1;zslatos k&#xFC;ldet&#xE9;seket teljes&#xED;teni?</text>
+  <answers>
+    <answer correct="false">Candy Crush</answer>
+    <answer correct="true">Harry Potter: Hogwarts Mystery</answer>
+    <answer correct="false">Fortnite</answer>
+    <answer correct="false">The Sims</answer>
+  </answers>
+</question>
+<question>
+  <text>Milyen ir&#xE1;nyban tal&#xE1;lhat&#xF3; Magyarorsz&#xE1;g Ausztri&#xE1;hoz viszony&#xED;tva?</text>
+  <answers>
+    <answer correct="false">&#xC9;szaki ir&#xE1;nyban</answer>
+    <answer correct="true">Nyugati ir&#xE1;nyban</answer>
+    <answer correct="false">Keleti ir&#xE1;nyban</answer>
+    <answer correct="false">D&#xE9;li ir&#xE1;nyban</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g hat&#xE1;ros Magyarorsz&#xE1;ggal a d&#xE9;li r&#xE9;szen?</text>
+  <answers>
+    <answer correct="false">Szlov&#xE1;kia</answer>
+    <answer correct="true">Szerbia</answer>
+    <answer correct="false">Ukrajna</answer>
+    <answer correct="false">Rom&#xE1;nia</answer>
+  </answers>
+</question>
+<question>
+  <text>Milyen orsz&#xE1;ggal osztja meg Magyarorsz&#xE1;g a legkevesebb hat&#xE1;rszakaszt?</text>
+  <answers>
+    <answer correct="false">Szlov&#xE1;kia</answer>
+    <answer correct="false">Ausztria</answer>
+    <answer correct="false">Rom&#xE1;nia</answer>
+    <answer correct="true">Ukrajna</answer>
+  </answers>
+</question>
+<question>
+  <text>Milyen foly&#xF3; hat&#xE1;rolja Magyarorsz&#xE1;g keleti r&#xE9;sz&#xE9;t?</text>
+  <answers>
+    <answer correct="false">Duna</answer>
+    <answer correct="false">Tiszta</answer>
+    <answer correct="false">Dr&#xE1;va</answer>
+    <answer correct="true">Tisza</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar szem&#xE9;lyis&#xE9;g volt a feltal&#xE1;l&#xF3;ja a Rubik-kock&#xE1;nak?</text>
+  <answers>
+    <answer correct="true">Rubik Ern&#x151;</answer>
+    <answer correct="false">Bart&#xF3;k B&#xE9;la</answer>
+    <answer correct="false">Kert&#xE9;sz Imre</answer>
+    <answer correct="false">Semmelweis Ign&#xE1;c</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a vil&#xE1;gh&#xED;r&#x171; magyar matematikus, aki a sz&#xE1;m&#xED;t&#xF3;g&#xE9;p-algebra elm&#xE9;let&#xE9;nek megalapoz&#xF3;ja?</text>
+  <answers>
+    <answer correct="false">Bart&#xF3;k B&#xE9;la</answer>
+    <answer correct="true">Gr&#xF3;f J&#xE1;nos</answer>
+    <answer correct="false">Kossuth Lajos</answer>
+    <answer correct="false">Kod&#xE1;ly Zolt&#xE1;n</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az els&#x151; magyar sz&#xE1;rmaz&#xE1;s&#xFA; &#x171;rhaj&#xF3;s, aki a vil&#xE1;g&#x171;rben j&#xE1;rt?</text>
+  <answers>
+    <answer correct="true">Farkas Bertalan</answer>
+    <answer correct="false">Liszt Ferenc</answer>
+    <answer correct="false">Bart&#xF3;k B&#xE9;la</answer>
+    <answer correct="false">Esterh&#xE1;zy P&#xE9;ter</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik h&#xED;res magyar szem&#xE9;lyis&#xE9;g nyerte meg a Nobel-d&#xED;jat a fizik&#xE1;ban?</text>
+  <answers>
+    <answer correct="false">Rubik Ern&#x151;</answer>
+    <answer correct="true">G&#xE1;bor D&#xE9;nes</answer>
+    <answer correct="false">Bart&#xF3;k B&#xE9;la</answer>
+    <answer correct="false">Kod&#xE1;ly Zolt&#xE1;n</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a legend&#xE1;s magyar futballista, aki h&#xE1;romszoros Aranylabd&#xE1;s lett?</text>
+  <answers>
+    <answer correct="false">Rubik Ern&#x151;</answer>
+    <answer correct="true">Pusk&#xE1;s Ferenc</answer>
+    <answer correct="false">Kubala L&#xE1;szl&#xF3;</answer>
+    <answer correct="false">Semmelweis Ign&#xE1;c</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a vil&#xE1;g legh&#xED;resebb &#xE9;s legsikeresebb labdar&#xFA;g&#xF3;ja?</text>
+  <answers>
+    <answer correct="false">Lionel Messi</answer>
+    <answer correct="false">Cristiano Ronaldo</answer>
+    <answer correct="true">Pel&#xE9;</answer>
+    <answer correct="false">Diego Maradona</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a vil&#xE1;g legh&#xED;resebb &#xE9;s legsikeresebb labdar&#xFA;g&#xF3;ja?</text>
+  <answers>
+    <answer correct="false">Lionel Messi</answer>
+    <answer correct="false">Cristiano Ronaldo</answer>
+    <answer correct="true">Pel&#xE9;</answer>
+    <answer correct="false">Diego Maradona</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik csapat nyerte meg a legt&#xF6;bbsz&#xF6;r a Bajnokok Lig&#xE1;j&#xE1;t?</text>
+  <answers>
+    <answer correct="false">Manchester United</answer>
+    <answer correct="true">Real Madrid</answer>
+    <answer correct="false">FC Barcelona</answer>
+    <answer correct="false">Bayern M&#xFC;nchen</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik orsz&#xE1;g v&#xE1;logatott csapata nyerte meg a 2014-es FIFA Vil&#xE1;gbajnoks&#xE1;got?</text>
+  <answers>
+    <answer correct="false">Braz&#xED;lia</answer>
+    <answer correct="false">Spanyolorsz&#xE1;g</answer>
+    <answer correct="true">N&#xE9;metorsz&#xE1;g</answer>
+    <answer correct="false">Argent&#xED;na</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik csapat nyerte meg a legt&#xF6;bbsz&#xF6;r az angol Premier League-et?</text>
+  <answers>
+    <answer correct="false">Manchester United</answer>
+    <answer correct="true">Liverpool</answer>
+    <answer correct="false">Chelsea</answer>
+    <answer correct="false">Arsenal</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik argentin labdar&#xFA;g&#xF3; kapta az "Aranylabda" d&#xED;jat hat alkalommal?</text>
+  <answers>
+    <answer correct="true">Lionel Messi</answer>
+    <answer correct="false">Cristiano Ronaldo</answer>
+    <answer correct="false">Neymar</answer>
+    <answer correct="false">Andr&#xE9;s Iniesta</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik portug&#xE1;l labdar&#xFA;g&#xF3; j&#xE1;tszik a Juventus FC-ben?</text>
+  <answers>
+    <answer correct="false">Lionel Messi</answer>
+    <answer correct="true">Cristiano Ronaldo</answer>
+    <answer correct="false">Neymar</answer>
+    <answer correct="false">Andr&#xE9;s Iniesta</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik spanyol labdar&#xFA;g&#xF3; volt a Barcelona egykori csapatkapit&#xE1;nya &#xE9;s hossz&#xFA; &#xE9;veken &#xE1;t a k&#xF6;z&#xE9;pp&#xE1;ly&#xE1;n brill&#xED;rozott?</text>
+  <answers>
+    <answer correct="false">Lionel Messi</answer>
+    <answer correct="false">Cristiano Ronaldo</answer>
+    <answer correct="false">Neymar</answer>
+    <answer correct="true">Andr&#xE9;s Iniesta</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a portug&#xE1;l labdar&#xFA;g&#xF3;, aki a Manchester Unitedban &#xE9;s a Real Madridban is j&#xE1;tszott?</text>
+  <answers>
+    <answer correct="false">Lionel Messi</answer>
+    <answer correct="true">Cristiano Ronaldo</answer>
+    <answer correct="false">Neymar</answer>
+    <answer correct="false">Andr&#xE9;s Iniesta</answer>
+  </answers>
+</question>
+<question>
+  <text>Hány kontinens található a világon?</text>
+  <answers>
+    <answer correct="false">3</answer>
+    <answer correct="true">7</answer>
+    <answer correct="false">10</answer>
+    <answer correct="false">5</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben kezdődött az Amerikai Függetlenségi Háború?</text>
+  <answers>
+    <answer correct="false">1776</answer>
+    <answer correct="true">1775</answer>
+    <answer correct="false">1789</answer>
+    <answer correct="false">1803</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik földrész a legnagyobb területű?</text>
+  <answers>
+    <answer correct="true">Ázsia</answer>
+    <answer correct="false">Európa</answer>
+    <answer correct="false">Afrika</answer>
+    <answer correct="false">Ausztrália</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik országban található a Pyreneus-hegység?</text>
+  <answers>
+    <answer correct="false">Olaszország</answer>
+    <answer correct="false">Spanyolország</answer>
+    <answer correct="true">Franciaország</answer>
+    <answer correct="false">Németország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a világ legmagasabb hegycsúcsa?</text>
+  <answers>
+    <answer correct="false">Kilimandzsáró</answer>
+    <answer correct="true">Mount Everest</answer>
+    <answer correct="false">Aconcagua</answer>
+    <answer correct="false">Denali</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki írta a "Pál utcai fiúk" című regényt?</text>
+  <answers>
+    <answer correct="true">Molnár Ferenc</answer>
+    <answer correct="false">Jókai Mór</answer>
+    <answer correct="false">Kosztolányi Dezső</answer>
+    <answer correct="false">Móricz Zsigmond</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki festette a "Csillagos éjszakát" című híres festményt?</text>
+  <answers>
+    <answer correct="false">Pablo Picasso</answer>
+    <answer correct="false">Vincent van Gogh</answer>
+    <answer correct="true">Vincent van Gogh</answer>
+    <answer correct="false">Claude Monet</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az első ember az űrben?</text>
+  <answers>
+    <answer correct="true">Juri Gagarin</answer>
+    <answer correct="false">Neil Armstrong</answer>
+    <answer correct="false">Buzz Aldrin</answer>
+    <answer correct="false">Yankee Doodle</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az első nő, aki megkapta a Nobel-díjat?</text>
+  <answers>
+    <answer correct="true">Marie Curie</answer>
+    <answer correct="false">Rosa Parks</answer>
+    <answer correct="false">Mother Teresa</answer>
+    <answer correct="false">Jane Goodall</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat a leghosszabb életű?</text>
+  <answers>
+    <answer correct="false">Elefánt</answer>
+    <answer correct="true">Galápagosz teknős</answer>
+    <answer correct="false">Kék bálna</answer>
+    <answer correct="false">Giraffe</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az első számítógép programozó?</text>
+  <answers>
+    <answer correct="true">Ada Lovelace</answer>
+    <answer correct="false">Grace Hopper</answer>
+    <answer correct="false">Alan Turing</answer>
+    <answer correct="false">Bill Gates</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alkotta a Mona Lisát?</text>
+  <answers>
+    <answer correct="false">Michelangelo</answer>
+    <answer correct="false">Pablo Picasso</answer>
+    <answer correct="true">Leonardo da Vinci</answer>
+    <answer correct="false">Salvador Dalí</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik városban található a Vatikán?</text>
+  <answers>
+    <answer correct="false">Párizs</answer>
+    <answer correct="false">Berlin</answer>
+    <answer correct="true">Róma</answer>
+    <answer correct="false">London</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki írta a "Harry Potter" könyvsorozatot?</text>
+  <answers>
+    <answer correct="true">J.K. Rowling</answer>
+    <answer correct="false">Stephen King</answer>
+    <answer correct="false">George R.R. Martin</answer>
+    <answer correct="false">Dan Brown</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az első ember, aki megmászta a Mount Everestet?</text>
+  <answers>
+    <answer correct="false">Edmund Hillary</answer>
+    <answer correct="true">Tenzing Norgay</answer>
+    <answer correct="false">Reinhold Messner</answer>
+    <answer correct="false">Alex Honnold</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt az első ember a Holdon?</text>
+  <answers>
+    <answer correct="true">Neil Armstrong</answer>
+    <answer correct="false">Buzz Aldrin</answer>
+    <answer correct="false">Yuri Gagarin</answer>
+    <answer correct="false">Michael Collins</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben kezdődött a francia forradalom?</text>
+  <answers>
+    <answer correct="true">1789</answer>
+    <answer correct="false">1776</answer>
+    <answer correct="false">1812</answer>
+    <answer correct="false">1848</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik növény a leghosszabb élettartamú?</text>
+  <answers>
+    <answer correct="false">Bambusz</answer>
+    <answer correct="true">Óriás szekvoja</answer>
+    <answer correct="false">Hosszú életű páfrány</answer>
+    <answer correct="false">Örökzöld fenyő</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alkotta a "Guernica" című híres festményt?</text>
+  <answers>
+    <answer correct="true">Pablo Picasso</answer>
+    <answer correct="false">Leonardo da Vinci</answer>
+    <answer correct="false">Vincent van Gogh</answer>
+    <answer correct="false">Salvador Dalí</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik országban található a Taj Mahal?</text>
+  <answers>
+    <answer correct="false">Törökország</answer>
+    <answer correct="true">India</answer>
+    <answer correct="false">Kína</answer>
+    <answer correct="false">Banglades</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik anyag nem vezeti az elektromosságot?</text>
+  <answers>
+    <answer correct="false">Réz</answer>
+    <answer correct="false">Alumínium</answer>
+    <answer correct="true">Gumi</answer>
+    <answer correct="false">Ezüst</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik bolygó a legnagyobb a Naprendszerben?</text>
+  <answers>
+    <answer correct="false">Merkúr</answer>
+    <answer correct="false">Vénusz</answer>
+    <answer correct="true">Jupiter</answer>
+    <answer correct="false">Neptunusz</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben történt az első olimpiai játékok?</text>
+  <answers>
+    <answer correct="true">1896</answer>
+    <answer correct="false">1904</answer>
+    <answer correct="false">1920</answer>
+    <answer correct="false">1936</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben alapították az Apple céget?</text>
+  <answers>
+    <answer correct="false">1976</answer>
+    <answer correct="false">1983</answer>
+    <answer correct="true">1977</answer>
+    <answer correct="false">1980</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben alapították a Google céget?</text>
+  <answers>
+    <answer correct="true">1998</answer>
+    <answer correct="false">2001</answer>
+    <answer correct="false">1996</answer>
+    <answer correct="false">2004</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik bolygó a Naprendszer legkisebb bolygója?</text>
+  <answers>
+    <answer correct="false">Vénusz</answer>
+    <answer correct="false">Mars</answer>
+    <answer correct="false">Jupiter</answer>
+    <answer correct="true">Merkúr</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évszázadban élt Leonardo da Vinci?</text>
+  <answers>
+    <answer correct="true">15.</answer>
+    <answer correct="false">16.</answer>
+    <answer correct="false">14.</answer>
+    <answer correct="false">17.</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki írta a "Háború és béke" című regényt?</text>
+  <answers>
+    <answer correct="false">Leo Tolstoj</answer>
+    <answer correct="true">Lev Tolsztoj</answer>
+    <answer correct="false">Anton Pavlovics Csehov</answer>
+    <answer correct="false">Fjodor Mihajlovics Dosztojevszkij</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben volt az első űrsétája az embernek?</text>
+  <answers>
+    <answer correct="true">1965</answer>
+    <answer correct="false">1961</answer>
+    <answer correct="false">1969</answer>
+    <answer correct="false">1975</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a legmagasabb hegycsúcs a világon?</text>
+  <answers>
+    <answer correct="true">Mount Everest</answer>
+    <answer correct="false">K2</answer>
+    <answer correct="false">Kangchenjunga</answer>
+    <answer correct="false">Makalu</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki írta a "Szent Johanna" című drámát?</text>
+  <answers>
+    <answer correct="true">George Bernard Shaw</answer>
+    <answer correct="false">William Shakespeare</answer>
+    <answer correct="false">Henrik Ibsen</answer>
+    <answer correct="false">Anton Pavlovics Csehov</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a legnagyobb állat a Földön?</text>
+  <answers>
+    <answer correct="true">Kék bálna</answer>
+    <answer correct="false">Elefánt</answer>
+    <answer correct="false">Zsiráf</answer>
+    <answer correct="false">Nagy tengeri teknős</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a "Sherlock Holmes" kitalált alakja?</text>
+  <answers>
+    <answer correct="false">Agatha Christie</answer>
+    <answer correct="true">Arthur Conan Doyle</answer>
+    <answer correct="false">Raymond Chandler</answer>
+    <answer correct="false">Dashiell Hammett</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben alakult meg az Egyesült Nemzetek Szervezete (ENSZ)?</text>
+  <answers>
+    <answer correct="false">1919</answer>
+    <answer correct="true">1945</answer>
+    <answer correct="false">1950</answer>
+    <answer correct="false">1961</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a leghosszabb ideig uralkodó uralkodó a történelemben?</text>
+  <answers>
+    <answer correct="true">II. Lajos</answer>
+    <answer correct="false">VII. János Pál</answer>
+    <answer correct="false">I. Erzsébet</answer>
+    <answer correct="false">Napóleon Bonaparte</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben történt az első emberes holdraszállás?</text>
+  <answers>
+    <answer correct="false">1961</answer>
+    <answer correct="true">1969</answer>
+    <answer correct="false">1972</answer>
+    <answer correct="false">1975</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt a "Pandora szelencéje" című tragédia szerzője?</text>
+  <answers>
+    <answer correct="false">Sophoklész</answer>
+    <answer correct="false">Euripidész</answer>
+    <answer correct="true">Aiszkhülosz</answer>
+    <answer correct="false">Menander</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben tartották az első modern olimpiai játékokat?</text>
+  <answers>
+    <answer correct="false">1892</answer>
+    <answer correct="false">1900</answer>
+    <answer correct="true">1896</answer>
+    <answer correct="false">1904</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik művészfestészeti stílus jellemző a "Csillagos éjszakára"?</text>
+  <answers>
+    <answer correct="false">Impresszionizmus</answer>
+    <answer correct="false">Kubizmus</answer>
+    <answer correct="true">Posztimpresszionizmus</answer>
+    <answer correct="false">Szürrealizmus</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben adták át a Szabadság-szobrot New Yorkban?</text>
+  <answers>
+    <answer correct="true">1886</answer>
+    <answer correct="false">1901</answer>
+    <answer correct="false">1920</answer>
+    <answer correct="false">1954</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik országban található a legnagyobb tigrispopuláció?</text>
+  <answers>
+    <answer correct="false">India</answer>
+    <answer correct="false">Kína</answer>
+    <answer correct="false">Oroszország</answer>
+    <answer correct="true">Indonézia</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fizikus nevéhez fűződik a relativitáselmélet kidolgozása?</text>
+  <answers>
+    <answer correct="true">Albert Einstein</answer>
+    <answer correct="false">Isaac Newton</answer>
+    <answer correct="false">Max Planck</answer>
+    <answer correct="false">Marie Curie</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a legnagyobb sivatag a Földön?</text>
+  <answers>
+    <answer correct="false">Antarktisz</answer>
+    <answer correct="true">Szahara</answer>
+    <answer correct="false">Gobi-sivatag</answer>
+    <answer correct="false">Kalahári-sivatag</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film nyerte el az Oscar-díjat a legjobb film kategóriában 2020-ban?</text>
+  <answers>
+    <answer correct="false">Parazit</answer>
+    <answer correct="false">1917</answer>
+    <answer correct="true">A nyomorultak</answer>
+    <answer correct="false">Jokerr</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki rendezte a "Titanic" című filmet?</text>
+  <answers>
+    <answer correct="true">James Cameron</answer>
+    <answer correct="false">Steven Spielberg</answer>
+    <answer correct="false">Christopher Nolan</answer>
+    <answer correct="false">Martin Scorsese</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film szól a második világháború alatt a Normandiai partraszállásról?</text>
+  <answers>
+    <answer correct="true">A megmentő</answer>
+    <answer correct="false">A legénylakás</answer>
+    <answer correct="false">A zászlóalj</answer>
+    <answer correct="false">Az Ötödik elem</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alakította Harry Potter szerepét a Harry Potter filmekben?</text>
+  <answers>
+    <answer correct="true">Daniel Radcliffe</answer>
+    <answer correct="false">Rupert Grint</answer>
+    <answer correct="false">Emma Watson</answer>
+    <answer correct="false">Tom Felton</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film hozta meg Brad Pitt számára az első Oscar-díjat a legjobb férfi mellékszereplő kategóriában?</text>
+  <answers>
+    <answer correct="false">Harcosok klubja</answer>
+    <answer correct="false">Becstelen brigantyk</answer>
+    <answer correct="true">Volt egyszer egy... Hollywood</answer>
+    <answer correct="false">Pénzcsináló</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film hozta meg Natalie Portman számára az Oscar-díjat a legjobb női főszereplő kategóriában?</text>
+  <answers>
+    <answer correct="false">Black Swan</answer>
+    <answer correct="false">V for Vendetta</answer>
+    <answer correct="true">Jackie</answer>
+    <answer correct="false">Closer</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki rendezi a "Keresztapa" trilógiát?</text>
+  <answers>
+    <answer correct="true">Francis Ford Coppola</answer>
+    <answer correct="false">Martin Scorsese</answer>
+    <answer correct="false">Quentin Tarantino</answer>
+    <answer correct="false">Steven Spielberg</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film a legelső része a Marvel Moziverzumnak?</text>
+  <answers>
+    <answer correct="false">Bosszúállók</answer>
+    <answer correct="false">Thor</answer>
+    <answer correct="true">Iron Man</answer>
+    <answer correct="false">Captain America: Az első bosszúálló</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film hozta meg Tom Hanks számára az Oscar-díjat a legjobb férfi főszereplő kategóriában először?</text>
+  <answers>
+    <answer correct="true">Philadelphia</answer>
+    <answer correct="false">Forrest Gump</answer>
+    <answer correct="false">Apollo 13</answer>
+    <answer correct="false">A zöldfülű</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film adaptálta a J.R.R. Tolkien "Gyűrűk Ura" című regényciklusát?</text>
+  <answers>
+    <answer correct="true">A Gyűrűk Ura trilógia</answer>
+    <answer correct="false">A Hobbit trilógia</answer>
+    <answer correct="false">Az Aranykommandó</answer>
+    <answer correct="false">A Háború a Karikával</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben írta alá az Egyesült Államok az Függetlenségi Nyilatkozatot?</text>
+  <answers>
+    <answer correct="false">1774</answer>
+    <answer correct="false">1776</answer>
+    <answer correct="true">1776</answer>
+    <answer correct="false">1789</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város az Amerikai Egyesült Államok fővárosa?</text>
+  <answers>
+    <answer correct="false">Los Angeles</answer>
+    <answer correct="false">New York</answer>
+    <answer correct="true">Washington, D.C.</answer>
+    <answer correct="false">Chicago</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik a legnagyobb tengerszint feletti magassággal rendelkező amerikai hegy?</text>
+  <answers>
+    <answer correct="false">Mount Everest</answer>
+    <answer correct="true">Mount McKinley</answer>
+    <answer correct="false">Mount Elbert</answer>
+    <answer correct="false">Mount Rushmore</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik az Amerikai Egyesült Államok legnagyobb folyója hosszúságban?</text>
+  <answers>
+    <answer correct="false">Nílus</answer>
+    <answer correct="true">Mississippi</answer>
+    <answer correct="false">Amazonas</answer>
+    <answer correct="false">Volga</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állam nevét viseli a híres Grand Canyon?</text>
+  <answers>
+    <answer correct="false">Colorado</answer>
+    <answer correct="false">Nevada</answer>
+    <answer correct="false">Utah</answer>
+    <answer correct="true">Arizona</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film rendezője Steven Spielberg?</text>
+  <answers>
+    <answer correct="false">Martin Scorsese</answer>
+    <answer correct="true">Steven Spielberg</answer>
+    <answer correct="false">Quentin Tarantino</answer>
+    <answer correct="false">Christopher Nolan</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film kapta meg az első Oscar-díjat a legjobb film kategóriában?</text>
+  <answers>
+    <answer correct="false">Casablanca</answer>
+    <answer correct="false">Titanic</answer>
+    <answer correct="true">Wings</answer>
+    <answer correct="false">Gone with the Wind</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film a legelső egész estés animációs film, amit Walt Disney készített?</text>
+  <answers>
+    <answer correct="false">Beauty and the Beast</answer>
+    <answer correct="false">The Little Mermaid</answer>
+    <answer correct="false">Cinderella</answer>
+    <answer correct="true">Snow White and the Seven Dwarfs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film hozta meg Tom Hanks számára az Oscar-díjat a legjobb férfi főszereplő kategóriában?</text>
+  <answers>
+    <answer correct="true">Philadelphia</answer>
+    <answer correct="false">Forrest Gump</answer>
+    <answer correct="false">Apollo 13</answer>
+    <answer correct="false">A zöldfülű</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film adaptálta a J.R.R. Tolkien "Gyűrűk Ura" című regényciklusát?</text>
+  <answers>
+    <answer correct="true">A Gyűrűk Ura trilógia</answer>
+    <answer correct="false">A Hobbit trilógia</answer>
+    <answer correct="false">Az Aranykommandó</answer>
+    <answer correct="false">A Háború a Karikával</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alakította a főszerepet a Harry Potter filmekben?</text>
+  <answers>
+    <answer correct="false">Daniel Radcliffe</answer>
+    <answer correct="false">Rupert Grint</answer>
+    <answer correct="false">Emma Watson</answer>
+    <answer correct="true">Mindhárman</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film nyerte el a legtöbb Oscar-díjat a történelem során?</text>
+  <answers>
+    <answer correct="false">Titanic</answer>
+    <answer correct="true">Az angol beteg</answer>
+    <answer correct="false">La La Land</answer>
+    <answer correct="false">Ben-Hur</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film a világ legnagyobb bevételű filmje?</text>
+  <answers>
+    <answer correct="false">Titanic</answer>
+    <answer correct="true">Avengers: Endgame</answer>
+    <answer correct="false">Avatar</answer>
+    <answer correct="false">A Karib-tenger kalózai: A világ végén</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a rendezője a Star Wars eredeti trilógiájának?</text>
+  <answers>
+    <answer correct="false">George Lucas</answer>
+    <answer correct="true">George Lucas</answer>
+    <answer correct="false">George Lucas</answer>
+    <answer correct="false">George Lucas</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik film játszódik a vietnami háború idején?</text>
+  <answers>
+    <answer correct="true">Platoon</answer>
+    <answer correct="false">Apocalypse Now</answer>
+    <answer correct="false">Full Metal Jacket</answer>
+    <answer correct="false">Good Morning, Vietnam</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alakította a Vasember karakterét a Marvel filmekben?</text>
+  <answers>
+    <answer correct="false">Chris Hemsworth</answer>
+    <answer correct="false">Chris Pratt</answer>
+    <answer correct="true">Robert Downey Jr.</answer>
+    <answer correct="false">Chris Evans</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a Bosszúállók csapat alapítója a képregényekben?</text>
+  <answers>
+    <answer correct="true">Tony Stark / Iron Man</answer>
+    <answer correct="false">Steve Rogers / Captain America</answer>
+    <answer correct="false">Thor</answer>
+    <answer correct="false">Bruce Banner / Hulk</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik képregényhős városában játszódik a Batman története?</text>
+  <answers>
+    <answer correct="false">New York</answer>
+    <answer correct="false">Metropolis</answer>
+    <answer correct="true">Gotham City</answer>
+    <answer correct="false">Central City</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter mutatkozott be először a Marvel filmuniverzumban?</text>
+  <answers>
+    <answer correct="false">Hulk</answer>
+    <answer correct="true">Iron Man</answer>
+    <answer correct="false">Thor</answer>
+    <answer correct="false">Captain America</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik képregény adaptációjaként készült a Deadpool film?</text>
+  <answers>
+    <answer correct="false">DC Extended Universe</answer>
+    <answer correct="false">X-Men filmuniverzum</answer>
+    <answer correct="false">Fantastic Four</answer>
+    <answer correct="true">Marvel Comics</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alakítja a Thor karakterét a Marvel filmekben?</text>
+  <answers>
+    <answer correct="false">Chris Hemsworth</answer>
+    <answer correct="false">Tom Hiddleston</answer>
+    <answer correct="false">Chris Evans</answer>
+    <answer correct="true">Chris Hemsworth</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a Pókember alteregója a képregényekben?</text>
+  <answers>
+    <answer correct="true">Peter Parker</answer>
+    <answer correct="false">Bruce Wayne</answer>
+    <answer correct="false">Clark Kent</answer>
+    <answer correct="false">Wade Wilson</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Marvel filmben találkozunk először Thanossal?</text>
+  <answers>
+    <answer correct="false">The Avengers</answer>
+    <answer correct="false">Thor: Ragnarök</answer>
+    <answer correct="true">The Avengers: Infinity War</answer>
+    <answer correct="false">Guardians of the Galaxy</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki alakítja a Wonder Woman karakterét a DC filmekben?</text>
+  <answers>
+    <answer correct="false">Gal Gadot</answer>
+    <answer correct="true">Emma Watson</answer>
+    <answer correct="false">Scarlett Johansson</answer>
+    <answer correct="false">Brie Larson</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik képregény adaptációjaként készült a X-Men: Az elsők film?</text>
+  <answers>
+    <answer correct="false">DC Extended Universe</answer>
+    <answer correct="true">X-Men filmuniverzum</answer>
+    <answer correct="false">Fantastic Four</answer>
+    <answer correct="false">Marvel Cinematic Universe</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a Star Wars eredeti trilógiájának főgonosza?</text>
+  <answers>
+    <answer correct="false">Luke Skywalker</answer>
+    <answer correct="true">Darth Vader</answer>
+    <answer correct="false">Obi-Wan Kenobi</answer>
+    <answer correct="false">Yoda</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki az eredeti Star Wars trilógiában Han Solo hűséges társa?</text>
+  <answers>
+    <answer correct="false">Luke Skywalker</answer>
+    <answer correct="false">R2-D2</answer>
+    <answer correct="false">C-3PO</answer>
+    <answer correct="true">Chewbacca</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Star Wars filmben találkozunk először Yodával?</text>
+  <answers>
+    <answer correct="false">Az utolsó Jedik</answer>
+    <answer correct="true">A Birodalom visszavág</answer>
+    <answer correct="false">Az Új remény</answer>
+    <answer correct="false">A Sith-ek bosszúja</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter vezeti a Sötét oldal harcosait, a Sith-eket?</text>
+  <answers>
+    <answer correct="false">Yoda</answer>
+    <answer correct="true">Darth Sidious</answer>
+    <answer correct="false">Obi-Wan Kenobi</answer>
+    <answer correct="false">Luke Skywalker</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki a Star Wars világának híres droidja, aki kommunikációra használja sípoló hangját?</text>
+  <answers>
+    <answer correct="true">R2-D2</answer>
+    <answer correct="false">BB-8</answer>
+    <answer correct="false">C-3PO</answer>
+    <answer correct="false">IG-88</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter volt a pilóta a Millennium Falcon űrhajón?</text>
+  <answers>
+    <answer correct="false">Princess Leia</answer>
+    <answer correct="true">Han Solo</answer>
+    <answer correct="false">Luke Skywalker</answer>
+    <answer correct="false">Obi-Wan Kenobi</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Star Wars filmben találkozunk először Rey karakterével?</text>
+  <answers>
+    <answer correct="false">Az utolsó Jedik</answer>
+    <answer correct="true">Az Ébredő Erő</answer>
+    <answer correct="false">Az Új remény</answer>
+    <answer correct="false">A Sith-ek bosszúja</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter viseli a fekete páncélt és az ikonikus Sith-kardot, a világoskék penge helyett piros penge van rajta?</text>
+  <answers>
+    <answer correct="false">Luke Skywalker</answer>
+    <answer correct="false">Obi-Wan Kenobi</answer>
+    <answer correct="true">Darth Vader</answer>
+    <answer correct="false">Kylo Ren</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Star Wars filmben találkozunk először Kylo Rennel?</text>
+  <answers>
+    <answer correct="false">A Sith-ek bosszúja</answer>
+    <answer correct="false">Az utolsó Jedik</answer>
+    <answer correct="true">Az Ébredő Erő</answer>
+    <answer correct="false">A Birodalom visszavág</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik karakter volt az egyik főszereplő a Star Wars: A klónok háborúja animációs sorozatban?</text>
+  <answers>
+    <answer correct="true">Ahsoka Tano</answer>
+    <answer correct="false">Padmé Amidala</answer>
+    <answer correct="false">General Grievous</answer>
+    <answer correct="false">Asajj Ventress</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik HBO sorozatban követjük a Lannister, Stark és Targaryen családok csatáit a Vas Trónért?</text>
+  <answers>
+    <answer correct="true">Trónok harca</answer>
+    <answer correct="false">Westworld</answer>
+    <answer correct="false">Királyok csatája</answer>
+    <answer correct="false">Szellemváros</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik HBO sorozatban találkozhatunk a különleges képességekkel rendelkező Delos park lakóival?</text>
+  <answers>
+    <answer correct="false">True Detective</answer>
+    <answer correct="true">Westworld</answer>
+    <answer correct="false">Sorvadj el</answer>
+    <answer correct="false">Az ötödik pecsét</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik HBO sorozatban követhetjük a középkori korban játszódó politikai intrikákat és hatalmi harcokat?</text>
+  <answers>
+    <answer correct="false">Csernobil</answer>
+    <answer correct="true">Vérfarkas</answer>
+    <answer correct="false">Catherine, a nagy</answer>
+    <answer correct="false">Az őrült hatalom</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik HBO sorozat fókuszál az emberi tudat feltérképezésére és mesterséges intelligenciára?</text>
+  <answers>
+    <answer correct="false">Barry</answer>
+    <answer correct="false">A mestergyilkos</answer>
+    <answer correct="true">Westworld</answer>
+    <answer correct="false">Az ötödik pecsét</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik HBO sorozatban követhetjük a bűnügyi nyomozásokat, ahol különleges detektívek próbálnak választ találni a rejtélyekre?</text>
+  <answers>
+    <answer correct="false">Sorvadj el</answer>
+    <answer correct="true">True Detective</answer>
+    <answer correct="false">Kegyetlen játékok</answer>
+    <answer correct="false">Catherine, a nagy</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Netflix sorozatban találkozhatunk a Hawkins nevű várossal, ahol különleges természeti jelenségek és paranormális események történnek?</text>
+  <answers>
+    <answer correct="true">Stranger Things</answer>
+    <answer correct="false">Money Heist</answer>
+    <answer correct="false">The Crown</answer>
+    <answer correct="false">Black Mirror</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Netflix sorozatban követhetjük a Shelby családot, akik a birminghami bűnözés világában próbálnak hatalmat szerezni?</text>
+  <answers>
+    <answer correct="false">Ozark</answer>
+    <answer correct="false">Breaking Bad</answer>
+    <answer correct="true">Peaky Blinders</answer>
+    <answer correct="false">Narcos</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Netflix sorozatban követhetjük a koronázott fejedelmet, II. Erzsébetet, és a brit királyi család történetét?</text>
+  <answers>
+    <answer correct="false">Stranger Things</answer>
+    <answer correct="false">Peaky Blinders</answer>
+    <answer correct="true">The Crown</answer>
+    <answer correct="false">Black Mirror</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Netflix sorozat fókuszál a technológia és a társadalom közötti kapcsolatra, és vizsgálja a modern technológia hatásait az emberek életére?</text>
+  <answers>
+    <answer correct="false">Stranger Things</answer>
+    <answer correct="false">Peaky Blinders</answer>
+    <answer correct="false">The Crown</answer>
+    <answer correct="true">Black Mirror</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Netflix sorozatban követhetjük a Cali kartellel és a drogkereskedő Pablo Escobarral folytatott küzdelmeket?</text>
+  <answers>
+    <answer correct="false">Stranger Things</answer>
+    <answer correct="false">Peaky Blinders</answer>
+    <answer correct="false">The Crown</answer>
+    <answer correct="true">Narcos</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Disney+ sorozatban követhetjük Wanda Maximoffot és Visiont, akiknek életét furcsa események és rejtélyek veszik körül?</text>
+  <answers>
+    <answer correct="true">WandaVision</answer>
+    <answer correct="false">The Mandalorian</answer>
+    <answer correct="false">Loki</answer>
+    <answer correct="false">A Sólyom és a Tél Katonája</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Disney+ sorozatban játszik főszerepet Tom Hiddleston, aki a Marvel univerzumban ismert szerepet alakít, mint Loki?</text>
+  <answers>
+    <answer correct="false">WandaVision</answer>
+    <answer correct="true">Loki</answer>
+    <answer correct="false">The Mandalorian</answer>
+    <answer correct="false">A Sólyom és a Tél Katonája</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Disney+ sorozatban követhetjük Din Djarint, a Mandoloriant és társát?</text>
+  <answers>
+    <answer correct="true">A Mandalóri</answer>
+    <answer correct="false">WandaVision</answer>
+    <answer correct="false">Loki</answer>
+    <answer correct="false">A Sólyom és a Tél Katonája</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Disney+ sorozatban láthatjuk Sam Wilsont, akit az Amerika Kapitány című filmben ismerhettünk meg?</text>
+  <answers>
+    <answer correct="false">WandaVisión</answer>
+    <answer correct="false">A Mandalóri</answer>
+    <answer correct="false">Loki</answer>
+    <answer correct="true">A Sólyom és a Tél Katonája</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik Disney+ sorozatban követhetjük Lady Loki kalandjait a Marvel univerzumban?</text>
+  <answers>
+    <answer correct="false">WandaVision</answer>
+    <answer correct="false">The Mandalorian</answer>
+    <answer correct="true">Loki</answer>
+    <answer correct="false">A Sólyom és a Tél Katonája</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik dombvidék található a Bükk hegységben Magyarországon?</text>
+  <answers>
+    <answer correct="false">Alföld</answer>
+    <answer correct="true">Mátra</answer>
+    <answer correct="false">Bakony</answer>
+    <answer correct="false">Balaton-felvidék</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tó a második legnagyobb Magyarországon?</text>
+  <answers>
+    <answer correct="false">Balaton</answer>
+    <answer correct="false">Hévízi-tó</answer>
+    <answer correct="true">Tisza-tó</answer>
+    <answer correct="false">Velencei-tó</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik városban található a Hősök tere és a Városliget?</text>
+  <answers>
+    <answer correct="false">Győr</answer>
+    <answer correct="false">Eger</answer>
+    <answer correct="true">Budapest</answer>
+    <answer correct="false">Pécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik városban található a híres Gyógyszertörténeti Múzeum?</text>
+  <answers>
+    <answer correct="false">Szeged</answer>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="true">Budapest</answer>
+    <answer correct="false">Pécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar városban található a Hortobágyi Nemzeti Park?</text>
+  <answers>
+    <answer correct="false">Szeged</answer>
+    <answer correct="false">Eger</answer>
+    <answer correct="true">Debrecen</answer>
+    <answer correct="false">Hajdúszoboszló</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik városban található a híres Sziget fesztivál?</text>
+  <answers>
+    <answer correct="false">Pécs</answer>
+    <answer correct="false">Eger</answer>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="true">Budapest</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar király uralkodott a 14. században?</text>
+  <answers>
+    <answer correct="true">I. (Nagy) Lajos</answer>
+    <answer correct="false">II. András</answer>
+    <answer correct="false">III. Béla</answer>
+    <answer correct="false">IV. (Károly Róbert)</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik évben történt a mohácsi csata?</text>
+  <answers>
+    <answer correct="false">1456</answer>
+    <answer correct="true">1526</answer>
+    <answer correct="false">1686</answer>
+    <answer correct="false">1848</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik magyar király nevezte ki Hunyadi Jánost a végvári kapitánnyá?</text>
+  <answers>
+    <answer correct="false">I. (Nagy) Lajos</answer>
+    <answer correct="false">II. András</answer>
+    <answer correct="true">Mátyás Király</answer>
+    <answer correct="false">IV. (Károly Róbert)</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik esemény zárta le a Rákóczi-szabadságharcot?</text>
+  <answers>
+    <answer correct="false">Trianoni békeszerződés</answer>
+    <answer correct="true">Szatmári béke</answer>
+    <answer correct="false">Rákóczi-féle végrendelet</answer>
+    <answer correct="false">Bécsi béke</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország része a Vajdaság?</text>
+  <answers>
+    <answer correct="true">Szerbia</answer>
+    <answer correct="false">Magyarország</answer>
+    <answer correct="false">Románia</answer>
+    <answer correct="false">Horvátország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város a Vajdaság fővárosa?</text>
+  <answers>
+    <answer correct="false">Belgrád</answer>
+    <answer correct="true">Újvidék</answer>
+    <answer correct="false">Szabadka</answer>
+    <answer correct="false">Pécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Milyen nyelv többségben beszélnek a Vajdaságban?</text>
+  <answers>
+    <answer correct="false">Angol</answer>
+    <answer correct="true">Szerb</answer>
+    <answer correct="false">Magyar</answer>
+    <answer correct="false">Horvát</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik népességi csoport jellemző a Vajdaságra?</text>
+  <answers>
+    <answer correct="false">Erdélyiek</answer>
+    <answer correct="false">Szlovákok</answer>
+    <answer correct="true">Magyarok</answer>
+    <answer correct="false">Albánok</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország része Erdély?</text>
+  <answers>
+    <answer correct="false">Szerbia</answer>
+    <answer correct="true">Románia</answer>
+    <answer correct="false">Magyarország</answer>
+    <answer correct="false">Szlovákia</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország része Erdély?</text>
+  <answers>
+    <answer correct="false">Szerbia</answer>
+    <answer correct="true">Románia</answer>
+    <answer correct="false">Magyarország</answer>
+    <answer correct="false">Szlovákia</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város a történelmi Erdély fővárosa?</text>
+  <answers>
+    <answer correct="false">Bukarest</answer>
+    <answer correct="true">Kolozsvár</answer>
+    <answer correct="false">Arad</answer>
+    <answer correct="false">Szeben</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik hegyvonulat húzódik Erdélyben?</text>
+  <answers>
+    <answer correct="true">Kárpátok</answer>
+    <answer correct="false">Alpok</answer>
+    <answer correct="false">Pireneusok</answer>
+    <answer correct="false">Apenninek</answer>
+  </answers>
+</question>
+<question>
+  <text>Milyen nyelvet beszélnek többségben Erdélyben?</text>
+  <answers>
+    <answer correct="false">Magyar</answer>
+    <answer correct="true">Román</answer>
+    <answer correct="false">Szlovák</answer>
+    <answer correct="false">Szerb</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik folyó halad át Erdélyen?</text>
+  <answers>
+    <answer correct="false">Duna</answer>
+    <answer correct="true">Maros</answer>
+    <answer correct="false">Tisza</answer>
+    <answer correct="false">Szamos</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország zászlaján található a piros-fehér-kék vízszintes csíkozás?</text>
+  <answers>
+    <answer correct="false">Olaszország</answer>
+    <answer correct="true">Franciaország</answer>
+    <answer correct="false">Spanyolország</answer>
+    <answer correct="false">Németország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország zászlaján található a kék háttérben sárga kereszt?</text>
+  <answers>
+    <answer correct="true">Svédország</answer>
+    <answer correct="false">Hollandia</answer>
+    <answer correct="false">Lengyelország</answer>
+    <answer correct="false">Görögország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország zászlaján lévő címerében található a fehér kettős kereszt piros háttéren?</text>
+  <answers>
+    <answer correct="false">Horvátország</answer>
+    <answer correct="false">Lettország</answer>
+    <answer correct="true">Szlovákia</answer>
+    <answer correct="false">Szlovénia</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország zászlaján található a kék kereszt?</text>
+  <answers>
+    <answer correct="false">Egyesült Királyság</answer>
+    <answer correct="false">Dánia</answer>
+    <answer correct="false">Norvégia</answer>
+    <answer correct="true">Finnország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország zászlaján található a piros háttérben fehér kereszt?</text>
+  <answers>
+    <answer correct="true">Svájc</answer>
+    <answer correct="false">Oroszország</answer>
+    <answer correct="false">Csehország</answer>
+    <answer correct="false">Belgium</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város az Spanyolország fővárosa?</text>
+  <answers>
+    <answer correct="false">Róma</answer>
+    <answer correct="false">Lisszabon</answer>
+    <answer correct="false">Bécs</answer>
+    <answer correct="true">Madrid</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város az Görögország fővárosa?</text>
+  <answers>
+    <answer correct="false">Róma</answer>
+    <answer correct="false">Madrid</answer>
+    <answer correct="true">Athén</answer>
+    <answer correct="false">Párizs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város Ausztria fővárosa?</text>
+  <answers>
+    <answer correct="false">Róma</answer>
+    <answer correct="false">Prága</answer>
+    <answer correct="true">Bécs</answer>
+    <answer correct="false">Budapest</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város Svájc fővárosa?</text>
+  <answers>
+    <answer correct="false">Berlin</answer>
+    <answer correct="false">Bécs</answer>
+    <answer correct="true">Bern</answer>
+    <answer correct="false">Párizs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város Hollandia fővárosa?</text>
+  <answers>
+    <answer correct="false">Budapest</answer>
+    <answer correct="true">Amszterdam</answer>
+    <answer correct="false">Prága</answer>
+    <answer correct="false">Róma</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város Svédország fővárosa?</text>
+  <answers>
+    <answer correct="false">Lisszabon</answer>
+    <answer correct="false">Amszterdam</answer>
+    <answer correct="true">Stockholm</answer>
+    <answer correct="false">Bécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város a Tisza folyó partján található?</text>
+  <answers>
+    <answer correct="false">Budapest</answer>
+    <answer correct="true">Szeged</answer>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="false">Pécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik város a Balaton partján található?</text>
+  <answers>
+    <answer correct="true">Siófok</answer>
+    <answer correct="false">Budapest</answer>
+    <answer correct="false">Debrecen</answer>
+    <answer correct="false">Pécs</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik országban található az Európai Parlament székhelye?</text>
+  <answers>
+    <answer correct="false">Németország</answer>
+    <answer correct="false">Egyesült Királyság</answer>
+    <answer correct="false">Franciaország</answer>
+    <answer correct="true">Belgium</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország a világ legnagyobb népességű demokráciája?</text>
+  <answers>
+    <answer correct="true">India</answer>
+    <answer correct="false">Amerikai Egyesült Államok</answer>
+    <answer correct="false">Kína</answer>
+    <answer correct="false">Németország</answer>
+  </answers>
+</question>
+<question>
+  <text>Ki volt Magyarország első demokratikusan megválasztott miniszterelnöke az 1990-es években?</text>
+  <answers>
+    <answer correct="true">Antall József</answer>
+    <answer correct="false">Gyurcsány Ferenc</answer>
+    <answer correct="false">Orbán Viktor</answer>
+    <answer correct="false">Medgyessy Péter</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország 2016-ban szavazta meg a Brexitet, vagyis kilépését az Európai Unióból?</text>
+  <answers>
+    <answer correct="true">Egyesült Királyság</answer>
+    <answer correct="false">Franciaország</answer>
+    <answer correct="false">Németország</answer>
+    <answer correct="false">Olaszország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik ország az alapító tagja az Európai Uniónak?</text>
+  <answers>
+    <answer correct="false">Norvégia</answer>
+    <answer correct="false">Svájc</answer>
+    <answer correct="true">Németország</answer>
+    <answer correct="false">Svédország</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik párt volt Magyarország első demokratikusan választott kormányának vezetője 1990-ben?</text>
+  <answers>
+    <answer correct="true">Magyar Demokrata Fórum (MDF)</answer>
+    <answer correct="false">Magyar Szocialista Párt (MSZP)</answer>
+    <answer correct="false">Fidesz - Magyar Polgári Szövetség</answer>
+    <answer correct="false">Szabad Demokraták Szövetsége (SZDSZ)</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tenger határolja az Egyesült Királyságot? </text>
+  <answers>
+    <answer correct="false">Csendes-óceán</answer>
+    <answer correct="true">Északi-tenger</answer>
+    <answer correct="false">Földközi-tenger</answer>
+    <answer correct="false">Atlanti-óceán</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tenger található Olaszország déli partjainál?</text>
+  <answers>
+    <answer correct="false">Északi-tenger</answer>
+    <answer correct="true">Földközi-tenger</answer>
+    <answer correct="false">Csendes-óceán</answer>
+    <answer correct="false">Vörös-tenger</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tenger található Görögország közelében?</text>
+  <answers>
+    <answer correct="false">Vörös-tenger</answer>
+    <answer correct="false">Csendes-óceán</answer>
+    <answer correct="true">Földközi-tenger</answer>
+    <answer correct="false">Északi-tenger</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tenger/óceán található Japán partjainál?</text>
+  <answers>
+    <answer correct="true">Csendes-óceán</answer>
+    <answer correct="false">Atlanti-óceán</answer>
+    <answer correct="false">Földközi-tenger</answer>
+    <answer correct="false">Északi-tenger</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik tenger/óceán határolja Ausztrália nyugati partjait?</text>
+  <answers>
+    <answer correct="false">Földközi-tenger</answer>
+    <answer correct="false">Északi-tenger</answer>
+    <answer correct="true">Indiai-óceán</answer>
+    <answer correct="false">Északi-sarki-óceán</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat számít a legnagyobb ragadozónak a tengerben?</text>
+  <answers>
+    <answer correct="false">Hal</answer>
+    <answer correct="false">Delfin</answer>
+    <answer correct="true">Nagy fehér cápa</answer>
+    <answer correct="false">Tengeri teknős</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat az emlősök közé tartozik?</text>
+  <answers>
+    <answer correct="true">Orángután</answer>
+    <answer correct="false">Krokodil</answer>
+    <answer correct="false">Teknős</answer>
+    <answer correct="false">Varangy</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat az egyetlen madár, amelyik képes hátrafelé repülni?</text>
+  <answers>
+    <answer correct="false">Pelikán</answer>
+    <answer correct="true">Kolibri</answer>
+    <answer correct="false">Bagoly</answer>
+    <answer correct="false">Gólya</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat él a sarkvidékek hideg tengerében?</text>
+  <answers>
+    <answer correct="false">Krokodil</answer>
+    <answer correct="false">Delfin</answer>
+    <answer correct="true">Fóka</answer>
+    <answer correct="false">Bálna</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik állat jellegzetes házikedvenc?</text>
+  <answers>
+    <answer correct="true">Kutya</answer>
+    <answer correct="false">Tigris</answer>
+    <answer correct="false">Papagáj</answer>
+    <answer correct="false">Teknős</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik kutya a legnagyobb az alábbiak közül?</text>
+  <answers>
+    <answer correct="false">Golden Retriever</answer>
+    <answer correct="true">Dán dog</answer>
+    <answer correct="false">Németjuhász</answer>
+    <answer correct="false">Yorkshire Terrier</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fajtát tartják az alábbiak közül a világ egyik legokosabb kutyájának?</text>
+  <answers>
+    <answer correct="false">Golden Retriever</answer>
+    <answer correct="false">Dán dog</answer>
+    <answer correct="true">Border Collie</answer>
+    <answer correct="false">Mopsz</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fajta kutyát tartják a világ egyik legkisebb fajtájának?</text>
+  <answers>
+    <answer correct="false">Golden Retriever</answer>
+    <answer correct="false">Dán dog</answer>
+    <answer correct="false">Border Collie</answer>
+    <answer correct="true">Chihuahua</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik fajta kutyát tartják a világ leggyorsabb futó kutyájának?</text>
+  <answers>
+    <answer correct="false">Golden Retriever</answer>
+    <answer correct="false">Dán dog</answer>
+    <answer correct="false">Border Collie</answer>
+    <answer correct="true">Greyhound</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik autógyártó cég székhelye található Stuttgartban, Németországban?</text>
+  <answers>
+    <answer correct="false">Ford</answer>
+    <answer correct="false">Toyota</answer>
+    <answer correct="false">Volkswagen</answer>
+    <answer correct="true">Mercedes-Benz</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik autómárka híres a luxus sportkocsikról, mint például a modellek: Aventador, Huracán, vagy Urus?</text>
+  <answers>
+    <answer correct="false">Ford</answer>
+    <answer correct="false">Toyota</answer>
+    <answer correct="false">Volkswagen</answer>
+    <answer correct="true">Lamborghini</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik autógyártó cég található Japánban?</text>
+  <answers>
+    <answer correct="false">Ford</answer>
+    <answer correct="true">Toyota</answer>
+    <answer correct="false">Volkswagen</answer>
+    <answer correct="false">BMW</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik autómárka hozta létre a legendás Mustang sportkocsit?</text>
+  <answers>
+    <answer correct="true">Ford</answer>
+    <answer correct="false">Toyota</answer>
+    <answer correct="false">Volkswagen</answer>
+    <answer correct="false">BMW</answer>
+  </answers>
+</question>
+<question>
+  <text>Melyik autómárka híres a Prius hibrid modelljéről?</text>
+  <answers>
+    <answer correct="false">Ford</answer>
+    <answer correct="true">Toyota</answer>
+    <answer correct="false">Volkswagen</answer>
+    <answer correct="false">BMW</answer>
+  </answers>
+</question>
+ <question>
+    <text>Melyik videókártya gyártó cége hozza létre a GeForce sorozatot?</text>
+    <answers>
+      <answer correct="true">NVIDIA</answer>
+      <answer correct="false">AMD</answer>
+      <answer correct="false">MSI</answer>
+      <answer correct="false">Gigabyte</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik számítógép alkatrész felelős a CPU hűtéséért?</text>
+    <answers>
+      <answer correct="true">Processzorhűtő</answer>
+      <answer correct="false">Videokártya</answer>
+      <answer correct="false">RAM</answer>
+      <answer correct="false">Tápegység</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik számítógép alkatrész tárolja az operációs rendszer és az alkalmazások adatokat hosszú távra?</text>
+    <answers>
+      <answer correct="true">Merevlemez (HDD vagy SSD)</answer>
+      <answer correct="false">RAM</answer>
+      <answer correct="false">Processzor</answer>
+      <answer correct="false">Alaplap</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik számítógép alkatrész felelős a monitorhoz való csatlakoztatásért és a grafikai kimenetért?</text>
+    <answers>
+      <answer correct="true">Videokártya (GPU)</answer>
+      <answer correct="false">Processzor</answer>
+      <answer correct="false">Hangkártya</answer>
+      <answer correct="false">Tápegység</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik számítógép alkatrész biztosítja az áramellátást a többi alkatrésznek?</text>
+    <answers>
+      <answer correct="true">Tápegység</answer>
+      <answer correct="false">Merevlemez</answer>
+      <answer correct="false">Videokártya</answer>
+      <answer correct="false">RAM</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik számítógép alkatrész tartalmazza a BIOS vagy UEFI firmware-t és összeköti a különböző alkatrészeket?</text>
+    <answers>
+      <answer correct="true">Alaplap</answer>
+      <answer correct="false">Processzor</answer>
+      <answer correct="false">Merevlemez</answer>
+      <answer correct="false">Videokártya</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik programozási nyelvet használja az Android alkalmazások fejlesztéséhez leginkább?</text>
+    <answers>
+      <answer correct="false">C++</answer>
+      <answer correct="false">Python</answer>
+      <answer correct="false">Swift</answer>
+      <answer correct="true">Java</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik programozási nyelvet használja a gépi tanulás és mesterséges intelligencia fejlesztéséhez a TensorFlow és PyTorch keretrendszerek?</text>
+    <answers>
+      <answer correct="true">Python</answer>
+      <answer correct="false">C++</answer>
+      <answer correct="false">Java</answer>
+      <answer correct="false">Ruby</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik autómárka a szlogenjében a "Das Beste oder Nichts" (A legjobb vagy semmi) kifejezést használja?</text>
+    <answers>
+      <answer correct="false">BMW</answer>
+      <answer correct="false">Audi</answer>
+      <answer correct="true">Mercedes-Benz</answer>
+      <answer correct="false">Volkswagen</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik német autómárka székhelye Stuttgartban található?</text>
+    <answers>
+      <answer correct="false">Opel</answer>
+      <answer correct="false">Ford</answer>
+      <answer correct="false">Volvo</answer>
+      <answer correct="true">Porsche</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik autómárka alapította Karl Benz és Gottlieb Daimler?</text>
+    <answers>
+      <answer correct="false">Audi</answer>
+      <answer correct="false">BMW</answer>
+      <answer correct="false">Volkswagen</answer>
+      <answer correct="true">Mercedes-Benz</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik autómárka a "Vorsprung durch Technik" (Az előrelépés a technológián keresztül) szlogent használja?</text>
+    <answers>
+      <answer correct="false">Mercedes-Benz</answer>
+      <answer correct="true">Audi</answer>
+      <answer correct="false">Porsche</answer>
+      <answer correct="false">Opel</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik japán autógyártó cég a legnagyobb a világon járműeladásaiban?</text>
+    <answers>
+      <answer correct="true">Toyota</answer>
+      <answer correct="false">Honda</answer>
+      <answer correct="false">Nissan</answer>
+      <answer correct="false">Subaru</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik japán autómárka ismert a Skyline és GT-R sportautóiról?</text>
+    <answers>
+      <answer correct="false">Toyota</answer>
+      <answer correct="false">Mitsubishi</answer>
+      <answer correct="false">Lexus</answer>
+      <answer correct="true">Nissan</answer>
+    </answers>
+  </question>
+<question>
+    <text>Melyik japán autógyártó hozza létre a Prius hibrid autókat?</text>
+    <answers>
+      <answer correct="false">Honda</answer>
+      <answer correct="true">Toyota</answer>
+      <answer correct="false">Subaru</answer>
+      <answer correct="false">Mazda</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik japán autómárka a "Zoom-Zoom" szlogent használja a reklámjaiban?</text>
+    <answers>
+      <answer correct="true">Mazda</answer>
+      <answer correct="false">Subaru</answer>
+      <answer correct="false">Suzuki</answer>
+      <answer correct="false">Mitsubishi</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik afrikai antilopfaj neve egy híres autómárka névadója is?</text>
+    <answers>
+      <answer correct="true">Impala</answer>
+      <answer correct="false">Kudu</answer>
+      <answer correct="false">Gazella</answer>
+      <answer correct="false">Eland</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik afrikai madárfaj híres a nagy termetéről és a rózsaszín tollazatáról?</text>
+    <answers>
+      <answer correct="false">Pelikán</answer>
+      <answer correct="false">Ostrich</answer>
+      <answer correct="true">Flamingó</answer>
+      <answer correct="false">Harci galamb</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik európai madár nevezhető a "vadászmadarak királyának" és híres a repülő akrobáciáiról?</text>
+    <answers>
+      <answer correct="false">Gólya</answer>
+      <answer correct="true">Vándorsólyom</answer>
+      <answer correct="false">Kakukk</answer>
+      <answer correct="false">Héja</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik európai madár ismert a fekete tollazatáról és vörös csőrének formájáról?</text>
+    <answers>
+      <answer correct="true">Varjú</answer>
+      <answer correct="false">Galamb</answer>
+      <answer correct="false">Pinty</answer>
+      <answer correct="false">Fácán</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik számítógép alkatrész végzi az adatok ideiglenes tárolását ?</text>
+    <answers>
+      <answer correct="false">Processzor (CPU)</answer>
+      <answer correct="false">Merevlemez (HDD/SSD)</answer>
+      <answer correct="false">Videokártya (GPU)</answer>
+      <answer correct="true">Memória (RAM)</answer>
+    </answers>
+  </question> 
+  <question>
+    <text>Melyik programozási nyelvet használják weboldalak készítéséhez és webalkalmazások fejlesztéséhez?</text>
+    <answers>
+      <answer correct="false">Java</answer>
+      <answer correct="false">Python, SQL</answer>
+      <answer correct="false">C++, C</answer>
+      <answer correct="true">HTML, CSS, JavaScript</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik operációs rendszer a Microsoft által fejlesztett és széles körben használják asztali számítógépeken?</text>
+    <answers>
+      <answer correct="true">Windows</answer>
+      <answer correct="false">Linux</answer>
+      <answer correct="false">macOS</answer>
+      <answer correct="false">Android</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik terület foglalkozik a számítógépek és hálózatok biztonságával?</text>
+    <answers>
+      <answer correct="true">Kibervédelem (cybersecurity)</answer>
+      <answer correct="false">Adatbáziskezelés</answer>
+      <answer correct="false">Mesterséges intelligencia</answer>
+      <answer correct="false">Videójátékok fejlesztése</answer>
+    </answers>
+  </question>
+   <question>
+    <text>Melyik 2018-as film nyerte el a legjobb filmnek járó Oscar-díjat?</text>
+    <answers>
+      <answer correct="false">Három óriásplakát Ebbing határában (Three Billboards Outside Ebbing, Missouri)</answer>
+      <answer correct="false">Get Out</answer>
+      <answer correct="true">A víz érintése (The Shape of Water)</answer>
+      <answer correct="false">Lady Bird</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik 2018-as Marvel filmben szerepelt először Wakanda királyaként T'Challa, vagyis a Fekete Párduc karakter?</text>
+    <answers>
+      <answer correct="true">Fekete Párduc (Black Panther)</answer>
+      <answer correct="false">A Bosszúállók: Végtelen háború (Avengers: Infinity War)</answer>
+      <answer correct="false">Deadpool 2</answer>
+      <answer correct="false">Ant-Man and The Wasp</answer>
+    </answers>
+  </question>
+  <question>
+    <text>Melyik 2018-as zenés film a legendás brit rockbanda, a Queen énekesének, Freddie Mercurynak az életét mutatja be?</text>
+    <answers>
+      <answer correct="false">A születésnap (The Birthday Party)</answer>
+      <answer correct="false">Rocketman</answer>
+      <answer correct="false">A csillag születik (A Star Is Born)</answer>
+      <answer correct="true">Bohemian Rhapsody</answer>
+    </answers>
+  </question>
+</quiz>
